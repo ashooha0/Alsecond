@@ -1,0 +1,1879 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 162 ciObject found
+instanceKlass java/util/Hashtable$1
+instanceKlass edu/stanford/nlp/time/Timex
+instanceKlass edu/stanford/nlp/util/BinaryHeapPriorityQueue$1
+instanceKlass java/util/AbstractList$1
+instanceKlass java/util/IdentityHashMap$IdentityHashMapIterator
+instanceKlass edu/stanford/nlp/semgraph/semgrex/Alignment
+instanceKlass edu/stanford/nlp/graph/DirectedMultiGraph$$Lambda$89
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/RelabelNode$1
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/CoindexationGenerator
+instanceKlass edu/stanford/nlp/trees/TreeGraphNodeFactory
+instanceKlass edu/stanford/nlp/trees/GrammaticalStructure$NameComparator
+instanceKlass edu/stanford/nlp/util/BinaryHeapPriorityQueue$Entry
+instanceKlass edu/stanford/nlp/graph/DijkstraShortestPath
+instanceKlass edu/stanford/nlp/ling/CoreLabel$1
+instanceKlass edu/stanford/nlp/graph/DirectedMultiGraph$$Lambda$88
+instanceKlass edu/stanford/nlp/process/WordShapeClassifier
+instanceKlass edu/stanford/nlp/process/LexerUtils$1
+instanceKlass sun/net/httpserver/Event
+instanceKlass sun/util/locale/provider/TimeZoneNameUtility$TimeZoneNameGetter
+instanceKlass sun/util/locale/provider/TimeZoneNameUtility
+instanceKlass java/text/DateFormatSymbols
+instanceKlass sun/util/calendar/CalendarUtils
+instanceKlass sun/util/calendar/CalendarDate
+instanceKlass sun/util/locale/provider/CalendarDataUtility$CalendarWeekParameterGetter
+instanceKlass sun/util/locale/provider/CalendarDataUtility
+instanceKlass java/util/Calendar$Builder
+instanceKlass java/util/TimeZone$1
+instanceKlass sun/net/httpserver/Code
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$3
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$QuotationsAnnotation
+instanceKlass edu/stanford/nlp/coref/CorefCoreAnnotations$CorefChainAnnotation
+instanceKlass edu/stanford/nlp/time/TimeAnnotations$TimexAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$WikipediaEntityAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$TrueCaseTextAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$TrueCaseAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$CodepointOffsetBeginAnnotation
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$$Lambda$87
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$$Lambda$86
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$MentionsAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$KBPTriplesAnnotation
+instanceKlass edu/stanford/nlp/naturalli/NaturalLogicAnnotations$RelationTriplesAnnotation
+instanceKlass edu/stanford/nlp/sentiment/SentimentCoreAnnotations$SentimentAnnotatedTree
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$$Lambda$85
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$$Lambda$84
+instanceKlass java/util/stream/StreamSpliterators$WrappingSpliterator$$Lambda$83
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/util/stream/Streams$2
+instanceKlass java/util/stream/Streams
+instanceKlass java/util/stream/StreamSpliterators$AbstractWrappingSpliterator
+instanceKlass java/util/stream/AbstractPipeline$$Lambda$82
+instanceKlass java/util/stream/Streams$ConcatSpliterator
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$$Lambda$81
+instanceKlass java/util/TimSort
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$$Lambda$80
+instanceKlass edu/stanford/nlp/trees/TreeCoreAnnotations$BinarizedTreeAnnotation
+instanceKlass edu/stanford/nlp/trees/Tree$$Lambda$79
+instanceKlass edu/stanford/nlp/trees/TreeFunctions$LabeledTreeToStringLabeledTreeFunction
+instanceKlass edu/stanford/nlp/trees/TreeFunctions
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SpeakerTypeAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ParagraphIndexAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$LineNumberAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SentenceIDAnnotation
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$$Lambda$78
+instanceKlass edu/stanford/nlp/ie/machinereading/structure/Span
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$$Lambda$77
+instanceKlass java/util/ArrayList$ArrayListSpliterator
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$LocationAnnotation
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$JSONWriter$$Lambda$76
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/util/Pointer
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$$Lambda$75
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$Writer
+instanceKlass edu/stanford/nlp/pipeline/JSONOutputter$JSONWriter
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$1
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$74
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/pipeline/AnnotationOutputter$Options
+instanceKlass edu/stanford/nlp/pipeline/AnnotationOutputter
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$CoNLLDepParentIndexAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$CoNLLDepTypeAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$CoarseTagAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$WebAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$FreqAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$AbstrAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$AbbrAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$GazAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$GovernorAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$HeadWordStringAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$StackedNamedEntityTagAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SectionDateAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SectionIDAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SectionAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$AuthorAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SpeakerAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$LinkAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$DocSourceTypeAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$DocDateAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$DocTypeAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$DocTitleAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ProtoAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$WordnetSynAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$MorphoCaseAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$MorphoGenAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$MorphoPersAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$MorphoNumAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$NormalizedNamedEntityTagAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ChunkAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$IDFAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ChineseSegAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ChineseOrigSegAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ChineseCharAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$PolarityAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$StemAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$GazetteerAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$RoleAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$InterpretationAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$FeaturesAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$GoldAnswerAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$AnswerAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SpanAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ParentAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$LeftTermAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ShapeAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$NamedEntityTagAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$CategoryFunctionalTagAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$VerbSenseAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SemanticHeadTagAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SemanticHeadWordAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$MarkingAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ArgumentAnnotation
+instanceKlass edu/stanford/nlp/ling/AnnotationLookup
+instanceKlass java/util/TreeMap$PrivateEntryIterator
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraphFactory$1
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraphFactory
+instanceKlass edu/stanford/nlp/semgraph/semgrex/GraphRelation$SearchNodeIterator
+instanceKlass edu/stanford/nlp/semgraph/semgrex/VariableStrings
+instanceKlass edu/stanford/nlp/graph/DirectedMultiGraph$EdgeIterator
+instanceKlass edu/stanford/nlp/graph/DirectedMultiGraph$$Lambda$73
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraphEdge$SemanticGraphEdgeTargetComparator
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraphEdge
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraphFormatter
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraph
+instanceKlass edu/stanford/nlp/ling/IndexedWord
+instanceKlass edu/stanford/nlp/trees/TypedDependency
+instanceKlass edu/stanford/nlp/graph/DirectedMultiGraph
+instanceKlass edu/stanford/nlp/graph/Graph
+instanceKlass edu/stanford/nlp/trees/GrammaticalStructure$NoPunctTypedDependencyFilter
+instanceKlass edu/stanford/nlp/util/ArrayStringFilter$1
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TreeLocation$LocationMatcher
+instanceKlass edu/stanford/nlp/trees/tregex/DescriptionPattern$1
+instanceKlass edu/stanford/nlp/trees/tregex/Relation$SearchNodeIterator
+instanceKlass edu/stanford/nlp/trees/Tree$TreeIterator
+instanceKlass edu/stanford/nlp/stats/IntCounter$NaturalComparator
+instanceKlass edu/stanford/nlp/stats/AbstractCounter
+instanceKlass edu/stanford/nlp/trees/tregex/VariableStrings
+instanceKlass edu/stanford/nlp/util/ArrayMap$Entry
+instanceKlass edu/stanford/nlp/trees/QPTreeTransformer
+instanceKlass edu/stanford/nlp/trees/DateTreeTransformer
+instanceKlass edu/stanford/nlp/trees/DependencyTreeTransformer
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TreeLocation
+instanceKlass edu/stanford/nlp/trees/Tree$$Lambda$72
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/AuxiliaryTree
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonMatcher
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/SimpleNode
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/Token
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParserTokenManager
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/SimpleCharStream
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParser$JJCalls
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/JJTTsurgeonParserState
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/Node
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParser
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParserConstants
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParserTreeConstants
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonPattern
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/Tsurgeon
+instanceKlass edu/stanford/nlp/trees/CoordinationTransformer
+instanceKlass java/util/concurrent/locks/ReentrantReadWriteLock$WriteLock
+instanceKlass java/util/concurrent/locks/ReentrantReadWriteLock$ReadLock
+instanceKlass java/util/concurrent/locks/ReentrantReadWriteLock
+instanceKlass edu/stanford/nlp/parser/lexparser/SpanishTreebankParserParams$MarkPrefixFunction
+instanceKlass edu/stanford/nlp/parser/lexparser/SpanishTreebankParserParams$MarkConjTypeFunction
+instanceKlass edu/stanford/nlp/parser/lexparser/TregexPoweredTreebankParserParams$AnnotateHeadFunction
+instanceKlass edu/stanford/nlp/trees/LeftHeadFinder
+instanceKlass edu/stanford/nlp/trees/RightHeadFinder
+instanceKlass edu/stanford/nlp/parser/lexparser/FrenchTreebankParserParams$AddPOSSequenceFunction
+instanceKlass edu/stanford/nlp/parser/lexparser/FrenchTreebankParserParams$AnnotatePunctuationFunction
+instanceKlass edu/stanford/nlp/parser/lexparser/FrenchTreebankParserParams$AddRelativeNodeFunction
+instanceKlass edu/stanford/nlp/parser/lexparser/TregexPoweredTreebankParserParams$SimpleStringFunction
+instanceKlass edu/stanford/nlp/util/CollectionUtils
+instanceKlass edu/stanford/nlp/parser/lexparser/ArabicTreebankParserParams$AddEquivalencedNodeFunctionVar
+instanceKlass edu/stanford/nlp/parser/lexparser/ArabicTreebankParserParams$AddEquivalencedNodeFunction
+instanceKlass edu/stanford/nlp/parser/lexparser/ArabicTreebankParserParams$AddRelativeNodeRegexFunction
+instanceKlass edu/stanford/nlp/parser/lexparser/AbstractTreebankParserParams$AnnotatePunctuationFunction
+instanceKlass edu/stanford/nlp/parser/lexparser/ArabicTreebankParserParams$AddEquivalencedConjNode
+instanceKlass edu/stanford/nlp/parser/lexparser/ArabicTreebankParserParams$AnnotatePunctuationFunction2
+instanceKlass edu/stanford/nlp/parser/lexparser/ArabicTreebankParserParams$AddRelativeNodeFunction
+instanceKlass edu/stanford/nlp/parser/lexparser/ArabicTreebankParserParams$SimpleStringFunction
+instanceKlass edu/stanford/nlp/process/SerializableFunction
+instanceKlass edu/stanford/nlp/international/arabic/process/ArabicTokenizer$ArabicTokenizerFactory
+instanceKlass edu/stanford/nlp/international/morph/MorphoFeatures
+instanceKlass edu/stanford/nlp/trees/GrammaticalRelation
+instanceKlass java/util/concurrent/locks/ReadWriteLock
+instanceKlass edu/stanford/nlp/trees/UniversalEnglishGrammaticalRelations
+instanceKlass edu/stanford/nlp/semgraph/semgrex/SemgrexPattern$$Lambda$71
+instanceKlass edu/stanford/nlp/util/RegexStringFilter
+instanceKlass edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher
+instanceKlass edu/stanford/nlp/semgraph/semgrex/NodeAttributes
+instanceKlass edu/stanford/nlp/semgraph/semgrex/GraphRelation
+instanceKlass edu/stanford/nlp/semgraph/semgrex/Token
+instanceKlass edu/stanford/nlp/semgraph/semgrex/SemgrexParserTokenManager
+instanceKlass edu/stanford/nlp/semgraph/semgrex/SimpleCharStream
+instanceKlass edu/stanford/nlp/semgraph/semgrex/SemgrexParser
+instanceKlass edu/stanford/nlp/semgraph/semgrex/SemgrexParserConstants
+instanceKlass edu/stanford/nlp/semgraph/semgrex/Env
+instanceKlass edu/stanford/nlp/semgraph/semgrex/SemgrexPattern
+instanceKlass edu/stanford/nlp/trees/UniversalEnglishGrammaticalStructure$ExtraTreeDepFilter
+instanceKlass edu/stanford/nlp/trees/ud/EnhancementOptions
+instanceKlass edu/stanford/nlp/trees/GrammaticalStructureFromDependenciesFactory
+instanceKlass edu/stanford/nlp/trees/HasParent
+instanceKlass edu/stanford/nlp/pipeline/ParserAnnotatorUtils
+instanceKlass edu/stanford/nlp/trees/Trees
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/parser/common/ParserUtils$$Lambda$70
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/util/LinkedList$LLSpliterator
+instanceKlass edu/stanford/nlp/parser/common/ParserUtils
+instanceKlass edu/stanford/nlp/trees/ConstituentFactory
+instanceKlass edu/stanford/nlp/trees/Dependency
+instanceKlass edu/stanford/nlp/parser/common/ParserAnnotations$CandidatePartOfSpeechAnnotation
+instanceKlass edu/stanford/nlp/trees/Dependencies$DependentPuncWordRejectFilter
+instanceKlass edu/stanford/nlp/util/Filters$NegatedFilter
+instanceKlass edu/stanford/nlp/trees/Dependencies$DependentPuncTagRejectFilter
+instanceKlass edu/stanford/nlp/util/ArrayCoreMap$1$1
+instanceKlass edu/stanford/nlp/parser/lexparser/EnglishTreebankParserParams$EnglishSubcategoryStripper
+instanceKlass edu/stanford/nlp/util/PriorityQueue
+instanceKlass edu/stanford/nlp/parser/lexparser/BoundaryRemover
+instanceKlass edu/stanford/nlp/ling/CoreLabel$CoreLabelFactory
+instanceKlass edu/stanford/nlp/parser/lexparser/Debinarizer
+instanceKlass edu/stanford/nlp/parser/lexparser/ExhaustivePCFGParser
+instanceKlass edu/stanford/nlp/parser/KBestViterbiParser
+instanceKlass edu/stanford/nlp/parser/ViterbiParser
+instanceKlass edu/stanford/nlp/parser/Parser
+instanceKlass edu/stanford/nlp/parser/lexparser/Scorer
+instanceKlass edu/stanford/nlp/parser/common/ParserAnnotations$ConstraintAnnotation
+instanceKlass edu/stanford/nlp/math/ArrayMath
+instanceKlass edu/stanford/nlp/tagger/maxent/ExtractorFrames
+instanceKlass edu/stanford/nlp/sequences/ExactBestSequenceFinder
+instanceKlass edu/stanford/nlp/ling/WordTag
+instanceKlass edu/stanford/nlp/process/Americanize
+instanceKlass edu/stanford/nlp/sequences/BestSequenceFinder
+instanceKlass edu/stanford/nlp/tagger/maxent/TestSentence
+instanceKlass edu/stanford/nlp/sequences/SequenceModel
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SectionEndAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SectionStartAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$MentionTokenAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ForcedSentenceUntilEndAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ForcedSentenceEndAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SectionsAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$DocIDAnnotation
+instanceKlass edu/stanford/nlp/process/LexerUtils
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$LemmaAnnotation
+instanceKlass java/util/Comparator$$Lambda$69
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass edu/stanford/nlp/ling/CoreLabel$$Lambda$68
+instanceKlass edu/stanford/nlp/ling/HasCategory
+instanceKlass edu/stanford/nlp/ling/AbstractCoreLabel
+instanceKlass edu/stanford/nlp/ling/AbstractToken
+instanceKlass edu/stanford/nlp/ling/HasContext
+instanceKlass edu/stanford/nlp/ling/HasOriginalText
+instanceKlass edu/stanford/nlp/ling/HasNER
+instanceKlass edu/stanford/nlp/ling/HasLemma
+instanceKlass edu/stanford/nlp/ling/HasIndex
+instanceKlass edu/stanford/nlp/process/PTBLexer
+instanceKlass java/util/concurrent/FutureTask$WaitNode
+instanceKlass java/util/concurrent/FutureTask
+instanceKlass java/util/concurrent/RunnableFuture
+instanceKlass java/util/concurrent/Future
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$CoreNLPHandler$$Lambda$67
+instanceKlass java/util/concurrent/Callable
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$CategoryAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$EndIndexAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$BeginIndexAnnotation
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraphCoreAnnotations$EnhancedPlusPlusDependenciesAnnotation
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraphCoreAnnotations$EnhancedDependenciesAnnotation
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraphCoreAnnotations$CollapsedCCProcessedDependenciesAnnotation
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraphCoreAnnotations$CollapsedDependenciesAnnotation
+instanceKlass edu/stanford/nlp/semgraph/SemanticGraphCoreAnnotations$BasicDependenciesAnnotation
+instanceKlass edu/stanford/nlp/trees/TreeCoreAnnotations$TreeAnnotation
+instanceKlass java/util/Calendar
+instanceKlass java/util/Date
+instanceKlass edu/stanford/nlp/trees/UniversalEnglishGrammaticalStructureFactory
+instanceKlass edu/stanford/nlp/trees/UniversalSemanticHeadFinder$$Lambda$66
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/util/ArrayStringFilter
+instanceKlass edu/stanford/nlp/trees/tregex/TregexMatcher
+instanceKlass edu/stanford/nlp/trees/tregex/Relation
+instanceKlass edu/stanford/nlp/trees/tregex/Token
+instanceKlass edu/stanford/nlp/trees/tregex/TregexParserTokenManager
+instanceKlass edu/stanford/nlp/trees/tregex/SimpleCharStream
+instanceKlass edu/stanford/nlp/trees/tregex/TregexParser$JJCalls
+instanceKlass edu/stanford/nlp/trees/tregex/TregexParser
+instanceKlass edu/stanford/nlp/trees/tregex/TregexParserConstants
+instanceKlass edu/stanford/nlp/trees/AbstractTreebankLanguagePack$BasicCategoryStringFunction
+instanceKlass edu/stanford/nlp/trees/tregex/TregexPatternCompiler
+instanceKlass edu/stanford/nlp/trees/TreeVisitor
+instanceKlass edu/stanford/nlp/trees/EnglishPatterns
+instanceKlass edu/stanford/nlp/trees/tregex/TregexPattern
+instanceKlass edu/stanford/nlp/util/Filters$CategoricalFilter
+instanceKlass edu/stanford/nlp/util/Filters
+instanceKlass edu/stanford/nlp/parser/lexparser/UnaryRule
+instanceKlass edu/stanford/nlp/process/DistSimClassifier
+instanceKlass edu/stanford/nlp/parser/lexparser/BaseUnknownWordModel
+instanceKlass edu/stanford/nlp/trees/AbstractCollinsHeadFinder
+instanceKlass edu/stanford/nlp/trees/CopulaHeadFinder
+instanceKlass edu/stanford/nlp/util/Filters$CollectionAcceptFilter
+instanceKlass edu/stanford/nlp/international/morph/MorphoFeatureSpecification
+instanceKlass edu/stanford/nlp/trees/GrammaticalStructureFactory
+instanceKlass edu/stanford/nlp/trees/AbstractTreebankLanguagePack
+instanceKlass edu/stanford/nlp/ling/CategoryWordTagFactory
+instanceKlass edu/stanford/nlp/trees/SimpleTreeFactory
+instanceKlass edu/stanford/nlp/parser/lexparser/EnglishTreebankParserParams$EnglishTest
+instanceKlass edu/stanford/nlp/parser/lexparser/EnglishTreebankParserParams$EnglishTrain
+instanceKlass edu/stanford/nlp/trees/TreeReader
+instanceKlass edu/stanford/nlp/trees/TreeNormalizer
+instanceKlass edu/stanford/nlp/ling/LabelFactory
+instanceKlass edu/stanford/nlp/trees/TreeReaderFactory
+instanceKlass edu/stanford/nlp/trees/GrammaticalStructure
+instanceKlass edu/stanford/nlp/parser/metrics/AbstractEval
+instanceKlass edu/stanford/nlp/parser/metrics/Eval
+instanceKlass edu/stanford/nlp/stats/EquivalenceClasser
+instanceKlass edu/stanford/nlp/trees/DependencyTyper
+instanceKlass edu/stanford/nlp/parser/lexparser/AbstractTreebankParserParams
+instanceKlass edu/stanford/nlp/parser/lexparser/Options$LexOptions
+instanceKlass edu/stanford/nlp/util/MapFactory
+instanceKlass edu/stanford/nlp/util/Factory
+instanceKlass edu/stanford/nlp/ling/ValueLabel
+instanceKlass edu/stanford/nlp/ling/HasOffset
+instanceKlass edu/stanford/nlp/ling/HasWord
+instanceKlass edu/stanford/nlp/ling/HasTag
+instanceKlass edu/stanford/nlp/stats/ClassicCounter
+instanceKlass edu/stanford/nlp/parser/lexparser/TestOptions
+instanceKlass edu/stanford/nlp/parser/lexparser/TrainOptions
+instanceKlass edu/stanford/nlp/parser/lexparser/IntTaggedWord
+instanceKlass edu/stanford/nlp/parser/lexparser/UnknownWordModelTrainer
+instanceKlass edu/stanford/nlp/parser/lexparser/UnknownWordModel
+instanceKlass edu/stanford/nlp/stats/Counter
+instanceKlass edu/stanford/nlp/parser/lexparser/BaseLexicon
+instanceKlass java/util/function/UnaryOperator
+instanceKlass edu/stanford/nlp/parser/lexparser/BinaryRule
+instanceKlass edu/stanford/nlp/parser/lexparser/Rule
+instanceKlass edu/stanford/nlp/parser/lexparser/LexicalizedParserQuery
+instanceKlass edu/stanford/nlp/trees/TreePrint
+instanceKlass edu/stanford/nlp/trees/CompositeTreeTransformer
+instanceKlass edu/stanford/nlp/parser/lexparser/TreeAnnotatorAndBinarizer
+instanceKlass edu/stanford/nlp/trees/TreebankLanguagePack
+instanceKlass edu/stanford/nlp/util/Triple
+instanceKlass edu/stanford/nlp/parser/lexparser/TreebankLangParserParams
+instanceKlass edu/stanford/nlp/trees/TreebankFactory
+instanceKlass java/io/FileFilter
+instanceKlass edu/stanford/nlp/util/Scored
+instanceKlass edu/stanford/nlp/trees/Labeled
+instanceKlass edu/stanford/nlp/ling/Label
+instanceKlass edu/stanford/nlp/parser/lexparser/Reranker
+instanceKlass edu/stanford/nlp/parser/lexparser/Options
+instanceKlass edu/stanford/nlp/parser/lexparser/UnaryGrammar
+instanceKlass edu/stanford/nlp/parser/lexparser/BinaryGrammar
+instanceKlass edu/stanford/nlp/parser/lexparser/Lexicon
+instanceKlass java/util/zip/CRC32
+instanceKlass java/util/zip/Checksum
+instanceKlass edu/stanford/nlp/parser/lexparser/AbstractTreeExtractor
+instanceKlass edu/stanford/nlp/parser/lexparser/Extractor
+instanceKlass edu/stanford/nlp/trees/HeadFinder
+instanceKlass edu/stanford/nlp/parser/lexparser/DependencyGrammar
+instanceKlass edu/stanford/nlp/trees/TreeTransformer
+instanceKlass edu/stanford/nlp/parser/common/ParserQuery
+instanceKlass edu/stanford/nlp/parser/lexparser/GrammarCompactor
+instanceKlass edu/stanford/nlp/util/FileProcessor
+instanceKlass edu/stanford/nlp/parser/common/ParserGrammar
+instanceKlass edu/stanford/nlp/parser/common/ParserQueryFactory
+instanceKlass edu/stanford/nlp/pipeline/SentenceAnnotator
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$PartOfSpeechAnnotation
+instanceKlass java/text/AttributedCharacterIterator$Attribute
+instanceKlass java/text/DigitList$1
+instanceKlass java/text/DontCareFieldPosition$1
+instanceKlass java/text/Format$FieldDelegate
+instanceKlass edu/stanford/nlp/tagger/maxent/FeatureKey
+instanceKlass edu/stanford/nlp/tagger/maxent/AmbiguityClass
+instanceKlass edu/stanford/nlp/tagger/maxent/Distsim
+instanceKlass edu/stanford/nlp/tagger/maxent/PairsHolder
+instanceKlass java/io/ObjectStreamClass$ExceptionInfo
+instanceKlass edu/stanford/nlp/tagger/maxent/History
+instanceKlass edu/stanford/nlp/tagger/maxent/Extractor
+instanceKlass edu/stanford/nlp/tagger/maxent/Extractors
+instanceKlass edu/stanford/nlp/tagger/maxent/TagCount
+instanceKlass edu/stanford/nlp/util/Interner
+instanceKlass edu/stanford/nlp/tagger/maxent/AmbiguityClasses
+instanceKlass edu/stanford/nlp/tagger/maxent/TTags
+instanceKlass edu/stanford/nlp/process/AmericanizeFunction
+instanceKlass edu/stanford/nlp/util/ReflectionLoading
+instanceKlass java/io/SerialCallbackContext
+instanceKlass java/io/ObjectStreamClass$ClassDataSlot
+instanceKlass java/io/ObjectStreamClass$FieldReflector
+instanceKlass java/io/ObjectOutput
+instanceKlass java/util/ComparableTimSort
+instanceKlass java/util/Arrays$LegacyMergeSort
+instanceKlass java/io/ObjectStreamClass$3
+instanceKlass java/io/Externalizable
+instanceKlass java/io/ObjectStreamClass$EntryFuture
+instanceKlass java/io/ObjectStreamClass$Caches
+instanceKlass java/io/ObjectStreamClass$1
+instanceKlass java/io/ObjectStreamClass
+instanceKlass java/io/Bits
+instanceKlass sun/misc/ObjectInputFilter$Config$$Lambda$65
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass sun/misc/ObjectInputFilter
+instanceKlass sun/misc/ObjectInputFilter$Config
+instanceKlass java/io/ObjectInputStream$ValidationList
+instanceKlass java/io/ObjectInputStream$HandleTable$HandleList
+instanceKlass java/io/ObjectInputStream$HandleTable
+instanceKlass java/io/ObjectInputStream$$Lambda$64
+instanceKlass sun/misc/JavaObjectInputStreamReadString
+instanceKlass java/io/ObjectInputStream$$Lambda$63
+instanceKlass sun/misc/JavaObjectInputStreamAccess
+instanceKlass sun/misc/ObjectStreamClassValidator
+instanceKlass java/io/ObjectInputStream$1
+instanceKlass sun/misc/JavaOISAccess
+instanceKlass java/io/ObjectStreamConstants
+instanceKlass java/io/ObjectInput
+instanceKlass edu/stanford/nlp/tagger/maxent/Dictionary
+instanceKlass edu/stanford/nlp/util/DataFilePaths
+instanceKlass org/xml/sax/helpers/DefaultHandler
+instanceKlass org/xml/sax/ErrorHandler
+instanceKlass org/xml/sax/ContentHandler
+instanceKlass org/xml/sax/DTDHandler
+instanceKlass org/xml/sax/EntityResolver
+instanceKlass edu/stanford/nlp/maxent/Experiments
+instanceKlass edu/stanford/nlp/maxent/Features
+instanceKlass edu/stanford/nlp/maxent/iis/LambdaSolve
+instanceKlass edu/stanford/nlp/tagger/common/Tagger
+instanceKlass edu/stanford/nlp/util/concurrent/ThreadsafeProcessor
+instanceKlass edu/stanford/nlp/pipeline/POSTaggerAnnotator
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SentenceIndexAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$SentencesAnnotation
+instanceKlass java/util/regex/Pattern$CharPropertyNames$CharPropertyFactory
+instanceKlass java/util/regex/Pattern$CharPropertyNames
+instanceKlass edu/stanford/nlp/ling/tokensregex/SequencePattern
+instanceKlass edu/stanford/nlp/pipeline/WordsToSentencesAnnotator
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$IsNewlineAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$ValueAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$OriginalTextAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$IndexAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$PositionAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$TokenEndAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$TokenBeginAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$AfterAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$BeforeAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$CharacterOffsetEndAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$CharacterOffsetBeginAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$TokensAnnotation
+instanceKlass edu/stanford/nlp/process/PTBTokenizer$PTBTokenizerFactory
+instanceKlass edu/stanford/nlp/process/CoreLabelTokenFactory
+instanceKlass edu/stanford/nlp/process/CoreTokenFactory
+instanceKlass edu/stanford/nlp/pipeline/TokenizerAnnotator$1
+instanceKlass edu/stanford/nlp/process/AbstractTokenizer
+instanceKlass edu/stanford/nlp/process/Tokenizer
+instanceKlass edu/stanford/nlp/process/WordToSentenceProcessor
+instanceKlass edu/stanford/nlp/process/ListProcessor
+instanceKlass edu/stanford/nlp/process/TokenizerFactory
+instanceKlass edu/stanford/nlp/objectbank/IteratorFromReaderFactory
+instanceKlass edu/stanford/nlp/process/LexedTokenFactory
+instanceKlass edu/stanford/nlp/pipeline/TokenizerAnnotator
+instanceKlass java/util/concurrent/Semaphore
+instanceKlass edu/stanford/nlp/pipeline/AnnotatorPool$$Lambda$62
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/pipeline/AnnotatorPool$$Lambda$61
+instanceKlass edu/stanford/nlp/pipeline/AnnotatorPool$CachedAnnotator
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$60
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$59
+instanceKlass edu/stanford/nlp/util/Lazy
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$AnnotatorSignature
+instanceKlass edu/stanford/nlp/util/Index
+instanceKlass edu/stanford/nlp/util/Generics
+instanceKlass edu/stanford/nlp/pipeline/AnnotatorPool
+instanceKlass java/text/DigitList
+instanceKlass java/text/FieldPosition
+instanceKlass edu/stanford/nlp/util/Timing
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$58
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$57
+instanceKlass java/util/Spliterators$IteratorSpliterator
+instanceKlass edu/stanford/nlp/ling/CoreAnnotations$TextAnnotation
+instanceKlass edu/stanford/nlp/ling/CoreAnnotation
+instanceKlass edu/stanford/nlp/util/TypesafeMap$Key
+instanceKlass edu/stanford/nlp/util/ErasureUtils
+instanceKlass edu/stanford/nlp/util/ArrayCoreMap$$Lambda$56
+instanceKlass edu/stanford/nlp/util/ArrayCoreMap
+instanceKlass edu/stanford/nlp/util/CoreMap
+instanceKlass edu/stanford/nlp/util/TypesafeMap
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$55
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$54
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$53
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$52
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$51
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$50
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$49
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$48
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$47
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$46
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$45
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$44
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$43
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$42
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$41
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$40
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$39
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$38
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$37
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$36
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$35
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$34
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$33
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$32
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$31
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$30
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$29
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$28
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLP$$Lambda$27
+instanceKlass edu/stanford/nlp/pipeline/AnnotatorImplementations
+instanceKlass edu/stanford/nlp/pipeline/AnnotationPipeline
+instanceKlass edu/stanford/nlp/pipeline/Annotator
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$26
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/util/ArrayUtils
+instanceKlass edu/stanford/nlp/pipeline/LanguageInfo
+instanceKlass java/util/stream/ForEachOps$ForEachOp
+instanceKlass java/util/stream/ForEachOps
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$25
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$24
+instanceKlass java/util/HashMap$HashMapSpliterator
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$23
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/net/URLEncoder
+instanceKlass java/net/URLDecoder
+instanceKlass com/sun/net/httpserver/HttpExchange
+instanceKlass sun/net/httpserver/ServerImpl$Exchange$LinkHandler
+instanceKlass com/sun/net/httpserver/Filter$Chain
+instanceKlass sun/util/calendar/ZoneInfoFile$ZoneOffsetTransitionRule
+instanceKlass sun/util/calendar/ZoneInfoFile$1
+instanceKlass sun/util/calendar/ZoneInfoFile
+instanceKlass sun/util/calendar/CalendarSystem
+instanceKlass java/util/TimeZone
+instanceKlass sun/net/httpserver/ExchangeImpl
+instanceKlass com/sun/net/httpserver/Headers
+instanceKlass java/util/concurrent/locks/LockSupport
+instanceKlass sun/net/httpserver/ServerImpl$2
+instanceKlass sun/net/httpserver/Request
+instanceKlass sun/net/httpserver/ServerImpl$Exchange
+instanceKlass sun/net/httpserver/HttpConnection
+instanceKlass java/nio/channels/spi/AbstractSelector$1
+instanceKlass sun/net/httpserver/ServerImpl$1
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$ReadyHandler
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$LiveHandler
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$ShutdownHandler
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$PingHandler
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$TregexHandler
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$SemgrexHandler
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$TokensRegexHandler
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$22
+instanceKlass sun/invoke/util/VerifyAccess$1
+instanceKlass com/sun/net/httpserver/Filter
+instanceKlass com/sun/net/httpserver/HttpContext
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$CoreNLPHandler
+instanceKlass java/util/Timer$1
+instanceKlass java/util/TimerTask
+instanceKlass java/util/TaskQueue
+instanceKlass java/util/Timer
+instanceKlass sun/net/httpserver/ServerImpl$Dispatcher
+instanceKlass sun/nio/ch/WindowsSelectorImpl$MapEntry
+instanceKlass sun/nio/ch/OptionKey
+instanceKlass sun/nio/ch/SocketOptionRegistry$LazyInitialization
+instanceKlass sun/nio/ch/SocketOptionRegistry$RegistryKey
+instanceKlass sun/nio/ch/SocketOptionRegistry
+instanceKlass sun/nio/ch/ExtendedSocketOption$1
+instanceKlass sun/nio/ch/ExtendedSocketOption
+instanceKlass sun/nio/ch/SocketChannelImpl$DefaultOptionsHolder
+instanceKlass java/net/Socket
+instanceKlass sun/nio/ch/IOStatus
+instanceKlass java/nio/DirectByteBuffer$Deallocator
+instanceKlass sun/nio/ch/Util$BufferCache
+instanceKlass sun/nio/fs/BasicFileAttributesHolder
+instanceKlass sun/nio/fs/WindowsDirectoryStream$WindowsDirectoryIterator
+instanceKlass sun/nio/fs/WindowsFileAttributes
+instanceKlass java/nio/file/attribute/DosFileAttributes
+instanceKlass java/nio/file/attribute/BasicFileAttributes
+instanceKlass sun/nio/fs/NativeBuffer$Deallocator
+instanceKlass sun/nio/fs/NativeBuffer
+instanceKlass sun/nio/fs/NativeBuffers
+instanceKlass sun/nio/fs/WindowsNativeDispatcher$BackupResult
+instanceKlass sun/nio/fs/WindowsNativeDispatcher$CompletionStatus
+instanceKlass sun/nio/fs/WindowsNativeDispatcher$AclInformation
+instanceKlass sun/nio/fs/WindowsNativeDispatcher$Account
+instanceKlass sun/nio/fs/WindowsNativeDispatcher$DiskFreeSpace
+instanceKlass sun/nio/fs/WindowsNativeDispatcher$VolumeInformation
+instanceKlass sun/nio/fs/WindowsNativeDispatcher$FirstStream
+instanceKlass sun/nio/fs/WindowsNativeDispatcher$FirstFile
+instanceKlass sun/nio/fs/WindowsNativeDispatcher$1
+instanceKlass sun/nio/fs/WindowsNativeDispatcher
+instanceKlass sun/nio/fs/WindowsDirectoryStream
+instanceKlass java/nio/file/DirectoryStream
+instanceKlass java/nio/file/Files$AcceptAllFilter
+instanceKlass java/nio/file/DirectoryStream$Filter
+instanceKlass java/nio/file/Files
+instanceKlass sun/nio/fs/AbstractPath
+instanceKlass java/net/URI$Parser
+instanceKlass java/net/URI
+instanceKlass sun/nio/fs/Util
+instanceKlass sun/nio/fs/WindowsPathParser$Result
+instanceKlass sun/nio/fs/WindowsPathParser
+instanceKlass java/nio/file/FileSystem
+instanceKlass java/nio/file/spi/FileSystemProvider
+instanceKlass sun/nio/fs/DefaultFileSystemProvider
+instanceKlass java/nio/file/FileSystems$DefaultFileSystemHolder$1
+instanceKlass java/nio/file/FileSystems$DefaultFileSystemHolder
+instanceKlass java/nio/file/FileSystems
+instanceKlass java/net/NetworkInterface$2
+instanceKlass java/net/DefaultInterface
+instanceKlass java/net/InterfaceAddress
+instanceKlass java/net/NetworkInterface$1
+instanceKlass sun/security/provider/ByteArrayAccess
+instanceKlass sun/security/provider/SeedGenerator$1
+instanceKlass sun/security/provider/SeedGenerator
+instanceKlass sun/security/provider/SecureRandom$SeederHolder
+instanceKlass sun/nio/ch/NativeThread
+instanceKlass java/nio/channels/spi/AbstractInterruptibleChannel$1
+instanceKlass sun/nio/ch/Interruptible
+instanceKlass java/nio/channels/GatheringByteChannel
+instanceKlass java/nio/channels/ScatteringByteChannel
+instanceKlass java/nio/channels/ByteChannel
+instanceKlass java/nio/channels/ReadableByteChannel
+instanceKlass sun/nio/ch/PipeImpl$Initializer$LoopbackConnector
+instanceKlass sun/nio/ch/PipeImpl$Initializer
+instanceKlass sun/security/util/MessageDigestSpi2
+instanceKlass sun/security/jca/GetInstance$Instance
+instanceKlass sun/security/jca/GetInstance
+instanceKlass java/security/MessageDigestSpi
+instanceKlass java/security/SecureRandomSpi
+instanceKlass java/security/Provider$UString
+instanceKlass java/security/Provider$Service
+instanceKlass sun/security/provider/NativePRNG$NonBlocking
+instanceKlass sun/security/provider/NativePRNG$Blocking
+instanceKlass sun/security/provider/NativePRNG
+instanceKlass sun/security/provider/SunEntries$1
+instanceKlass sun/security/provider/SunEntries
+instanceKlass sun/security/jca/ProviderConfig$2
+instanceKlass sun/security/jca/ProviderList$2
+instanceKlass sun/misc/FDBigInteger
+instanceKlass java/security/Provider$EngineDescription
+instanceKlass java/security/Provider$ServiceKey
+instanceKlass sun/security/jca/ProviderConfig
+instanceKlass sun/security/jca/ProviderList
+instanceKlass sun/security/jca/Providers
+instanceKlass java/nio/channels/Pipe
+instanceKlass sun/nio/ch/NativeObject
+instanceKlass sun/nio/ch/PollArrayWrapper
+instanceKlass sun/nio/ch/WindowsSelectorImpl$FinishLock
+instanceKlass sun/nio/ch/WindowsSelectorImpl$StartLock
+instanceKlass sun/nio/ch/WindowsSelectorImpl$SubSelector
+instanceKlass java/nio/channels/SelectionKey
+instanceKlass sun/nio/ch/Util$3
+instanceKlass sun/nio/ch/Util$2
+instanceKlass sun/nio/ch/Util
+instanceKlass java/nio/channels/Selector
+instanceKlass sun/net/NetHooks
+instanceKlass sun/misc/FloatingDecimal$ASCIIToBinaryBuffer
+instanceKlass sun/misc/FloatingDecimal$PreparedASCIIToBinaryBuffer
+instanceKlass sun/misc/FloatingDecimal$ASCIIToBinaryConverter
+instanceKlass sun/misc/FloatingDecimal$BinaryToASCIIBuffer
+instanceKlass sun/misc/FloatingDecimal$ExceptionalBinaryToASCIIBuffer
+instanceKlass sun/misc/FloatingDecimal$BinaryToASCIIConverter
+instanceKlass sun/misc/FloatingDecimal
+instanceKlass java/net/PlainSocketImpl$1
+instanceKlass java/net/NetworkInterface
+instanceKlass java/net/StandardSocketOptions$StdSocketOption
+instanceKlass java/net/StandardSocketOptions
+instanceKlass java/net/AbstractPlainSocketImpl$1
+instanceKlass java/net/SocketImpl
+instanceKlass java/net/SocketOptions
+instanceKlass java/net/SocksConsts
+instanceKlass java/net/ServerSocket
+instanceKlass sun/nio/ch/Net$3
+instanceKlass sun/nio/ch/Net$4
+instanceKlass jdk/net/ExtendedSocketOptions$PlatformSocketOptions$1
+instanceKlass jdk/net/ExtendedSocketOptions$PlatformSocketOptions
+instanceKlass jdk/net/SocketFlow
+instanceKlass jdk/net/ExtendedSocketOptions$ExtSocketOption
+instanceKlass java/net/SocketOption
+instanceKlass jdk/net/ExtendedSocketOptions
+instanceKlass sun/net/ExtendedSocketOptions
+instanceKlass sun/nio/ch/Net$1
+instanceKlass java/net/ProtocolFamily
+instanceKlass sun/nio/ch/Net
+instanceKlass sun/nio/ch/NativeDispatcher
+instanceKlass sun/nio/ch/IOUtil$1
+instanceKlass sun/nio/ch/IOUtil
+instanceKlass sun/nio/ch/SelChImpl
+instanceKlass sun/nio/ch/DefaultSelectorProvider
+instanceKlass java/nio/channels/spi/SelectorProvider$1
+instanceKlass java/nio/channels/spi/SelectorProvider
+instanceKlass java/nio/channels/spi/AbstractInterruptibleChannel
+instanceKlass java/nio/channels/InterruptibleChannel
+instanceKlass java/nio/channels/NetworkChannel
+instanceKlass sun/net/httpserver/ContextList
+instanceKlass sun/net/httpserver/ServerConfig$2
+instanceKlass java/util/logging/LogManager$5
+instanceKlass java/util/logging/LoggingProxyImpl
+instanceKlass sun/util/logging/LoggingProxy
+instanceKlass sun/util/logging/LoggingSupport$1
+instanceKlass sun/util/logging/LoggingSupport
+instanceKlass sun/util/logging/PlatformLogger$LoggerProxy
+instanceKlass sun/util/logging/PlatformLogger$1
+instanceKlass sun/util/logging/PlatformLogger
+instanceKlass java/util/logging/LogManager$LoggerContext$1
+instanceKlass java/util/logging/LogManager$3
+instanceKlass java/util/logging/LogManager$2
+instanceKlass java/util/logging/LogManager$LogNode
+instanceKlass java/util/logging/LogManager$LoggerContext
+instanceKlass java/util/logging/LogManager$1
+instanceKlass java/util/logging/LogManager
+instanceKlass java/util/concurrent/CopyOnWriteArrayList
+instanceKlass java/util/logging/Logger$LoggerBundle
+instanceKlass java/util/logging/Level$KnownLevel
+instanceKlass java/util/logging/Level
+instanceKlass java/util/logging/Handler
+instanceKlass java/util/logging/Logger
+instanceKlass sun/net/httpserver/ServerConfig$1
+instanceKlass sun/net/httpserver/ServerConfig
+instanceKlass sun/net/httpserver/ServerImpl
+instanceKlass sun/net/httpserver/TimeSource
+instanceKlass com/sun/net/httpserver/spi/HttpServerProvider$1
+instanceKlass com/sun/net/httpserver/spi/HttpServerProvider
+instanceKlass java/net/InetSocketAddress$InetSocketAddressHolder
+instanceKlass java/net/SocketAddress
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$21
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$FinishedRequest
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$20
+instanceKlass sun/net/www/protocol/jar/JarFileFactory
+instanceKlass sun/net/www/protocol/jar/URLJarFile$URLJarFileCloseController
+instanceKlass java/util/stream/Nodes$ArrayNode
+instanceKlass java/util/stream/Node$Builder
+instanceKlass java/util/stream/Node$OfDouble
+instanceKlass java/util/stream/Node$OfLong
+instanceKlass java/util/stream/Node$OfInt
+instanceKlass java/util/stream/Node$OfPrimitive
+instanceKlass java/util/stream/Nodes$EmptyNode
+instanceKlass java/util/stream/Node
+instanceKlass java/util/stream/Nodes
+instanceKlass edu/stanford/nlp/util/ArgumentParser$$Lambda$19
+instanceKlass java/util/function/IntFunction
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/util/ArgumentParser$$Lambda$18
+instanceKlass java/nio/channels/WritableByteChannel
+instanceKlass java/nio/channels/Channel
+instanceKlass edu/stanford/nlp/io/IOUtils
+instanceKlass java/math/MutableBigInteger
+instanceKlass java/util/Random
+instanceKlass java/io/DeleteOnExitHook$1
+instanceKlass java/io/DeleteOnExitHook
+instanceKlass java/util/concurrent/Executors$DefaultThreadFactory
+instanceKlass java/util/concurrent/ThreadFactory
+instanceKlass java/util/concurrent/LinkedBlockingQueue$Node
+instanceKlass java/util/concurrent/locks/AbstractQueuedSynchronizer$ConditionObject
+instanceKlass java/util/concurrent/locks/Condition
+instanceKlass java/util/concurrent/BlockingQueue
+instanceKlass java/util/concurrent/ThreadPoolExecutor$AbortPolicy
+instanceKlass java/util/concurrent/RejectedExecutionHandler
+instanceKlass java/util/concurrent/AbstractExecutorService
+instanceKlass java/util/concurrent/Executors
+instanceKlass java/util/ArrayList$SubList$1
+instanceKlass java/util/StringJoiner
+instanceKlass java/util/Formattable
+instanceKlass java/util/Formatter$Conversion
+instanceKlass java/util/Formatter$Flags
+instanceKlass java/util/Formatter$FormatSpecifier
+instanceKlass java/util/Formatter$FixedString
+instanceKlass java/util/Formatter$FormatString
+instanceKlass java/util/regex/ASCII
+instanceKlass java/util/regex/Matcher
+instanceKlass java/util/regex/MatchResult
+instanceKlass java/util/Currency$CurrencyNameGetter
+instanceKlass sun/util/locale/provider/LocaleServiceProviderPool$LocalizedObjectGetter
+instanceKlass sun/util/locale/provider/SPILocaleProviderAdapter$1
+instanceKlass sun/util/locale/provider/LocaleServiceProviderPool
+instanceKlass java/io/DataInput
+instanceKlass java/util/Currency$1
+instanceKlass java/util/Currency
+instanceKlass java/util/concurrent/atomic/AtomicMarkableReference$Pair
+instanceKlass java/util/concurrent/atomic/AtomicMarkableReference
+instanceKlass java/util/ResourceBundle$CacheKeyReference
+instanceKlass java/util/ResourceBundle$CacheKey
+instanceKlass java/util/ResourceBundle$RBClassLoader$1
+instanceKlass java/util/ServiceLoader$1
+instanceKlass java/util/ServiceLoader$LazyIterator
+instanceKlass java/util/ServiceLoader
+instanceKlass java/util/spi/ResourceBundleControlProvider
+instanceKlass java/util/ResourceBundle
+instanceKlass java/util/ResourceBundle$Control
+instanceKlass sun/util/resources/LocaleData$1
+instanceKlass sun/util/resources/LocaleData
+instanceKlass sun/util/locale/provider/LocaleResources
+instanceKlass sun/util/locale/LanguageTag
+instanceKlass sun/util/locale/provider/JRELocaleProviderAdapter$1
+instanceKlass sun/util/locale/provider/LocaleDataMetaInfo
+instanceKlass sun/util/locale/provider/AvailableLanguageTags
+instanceKlass sun/util/locale/provider/LocaleProviderAdapter$1
+instanceKlass sun/util/locale/provider/ResourceBundleBasedAdapter
+instanceKlass sun/util/locale/provider/LocaleProviderAdapter
+instanceKlass java/util/spi/LocaleServiceProvider
+instanceKlass java/text/DecimalFormatSymbols
+instanceKlass java/util/Locale$1
+instanceKlass java/util/Formatter
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$17
+instanceKlass java/util/TreeMap$TreeMapSpliterator
+instanceKlass java/util/NavigableSet
+instanceKlass java/util/SortedSet
+instanceKlass java/util/Collections$EmptyIterator
+instanceKlass java/util/Collections$EmptyEnumeration
+instanceKlass edu/stanford/nlp/util/PropertiesUtils
+instanceKlass java/util/regex/Pattern$TreeInfo
+instanceKlass java/lang/Character$Subset
+instanceKlass java/util/regex/Pattern$Node
+instanceKlass java/util/regex/Pattern
+instanceKlass edu/stanford/nlp/util/StringUtils$$Lambda$16
+instanceKlass edu/stanford/nlp/util/StringUtils
+instanceKlass java/lang/Shutdown$Lock
+instanceKlass java/lang/Shutdown
+instanceKlass java/lang/ApplicationShutdownHooks$1
+instanceKlass java/lang/ApplicationShutdownHooks
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$$Lambda$15
+instanceKlass java/lang/ProcessEnvironment$CheckedEntry
+instanceKlass java/lang/ProcessEnvironment$CheckedEntrySet$1
+instanceKlass java/util/Collections$UnmodifiableMap
+instanceKlass java/lang/ProcessEnvironment$EntryComparator
+instanceKlass java/lang/ProcessEnvironment$NameComparator
+instanceKlass edu/stanford/nlp/util/logging/SLF4JHandler$1
+instanceKlass java/net/URLClassLoader$2
+instanceKlass org/slf4j/impl/SimpleLogger$1
+instanceKlass java/text/Format
+instanceKlass java/util/concurrent/ConcurrentHashMap$Traverser
+instanceKlass org/slf4j/helpers/NamedLoggerBase
+instanceKlass org/slf4j/impl/SimpleLoggerFactory
+instanceKlass org/slf4j/impl/StaticLoggerBinder
+instanceKlass org/slf4j/spi/LoggerFactoryBinder
+instanceKlass java/net/URLClassLoader$3$1
+instanceKlass sun/misc/CompoundEnumeration
+instanceKlass java/net/URLClassLoader$3
+instanceKlass sun/misc/URLClassPath$1
+instanceKlass java/lang/ClassLoader$2
+instanceKlass sun/misc/URLClassPath$2
+instanceKlass sun/misc/Launcher$BootClassPathHolder$1
+instanceKlass sun/misc/Launcher$BootClassPathHolder
+instanceKlass edu/stanford/nlp/util/Pair
+instanceKlass edu/stanford/nlp/util/logging/PrettyLoggable
+instanceKlass java/util/Collections$1
+instanceKlass edu/stanford/nlp/util/logging/Redwood$1
+instanceKlass edu/stanford/nlp/util/logging/Redwood$Record
+instanceKlass org/slf4j/helpers/NOPLoggerFactory
+instanceKlass org/slf4j/Logger
+instanceKlass org/slf4j/helpers/SubstituteLoggerFactory
+instanceKlass org/slf4j/ILoggerFactory
+instanceKlass org/slf4j/LoggerFactory
+instanceKlass edu/stanford/nlp/util/MetaClass$ClassFactory
+instanceKlass edu/stanford/nlp/trees/TreeFactory
+instanceKlass edu/stanford/nlp/util/MetaClass
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$$Lambda$14
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$Handlers$7
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$Handlers$$Lambda$13
+instanceKlass edu/stanford/nlp/util/logging/RepeatedRecordHandler$RepeatedRecordInfo
+instanceKlass edu/stanford/nlp/util/logging/RepeatedRecordHandler$ExactRepeatSemantics
+instanceKlass edu/stanford/nlp/util/logging/RepeatedRecordHandler$ApproximateRepeatSemantics
+instanceKlass edu/stanford/nlp/util/logging/VisibilityHandler$1
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$Handlers$$Lambda$12
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$Handlers$$Lambda$11
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$Handlers$$Lambda$10
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$Handlers$$Lambda$9
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$Handlers$$Lambda$8
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$Handlers$2
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$Handlers
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$Thunk
+instanceKlass java/util/LinkedList$Node
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$$Lambda$7
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass edu/stanford/nlp/util/logging/RepeatedRecordHandler$RepeatSemantics
+instanceKlass edu/stanford/nlp/util/logging/LogRecordHandler
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration
+instanceKlass java/util/concurrent/locks/AbstractQueuedSynchronizer$Node
+instanceKlass java/util/concurrent/locks/AbstractOwnableSynchronizer
+instanceKlass edu/stanford/nlp/util/logging/Redwood$RecordHandlerTree
+instanceKlass edu/stanford/nlp/util/logging/Redwood$RedwoodChannels
+instanceKlass edu/stanford/nlp/util/logging/Redwood
+instanceKlass edu/stanford/nlp/util/logging/Redwood$Util
+instanceKlass sun/reflect/ClassDefiner$1
+instanceKlass sun/reflect/ClassDefiner
+instanceKlass sun/reflect/MethodAccessorGenerator$1
+instanceKlass sun/reflect/Label$PatchInfo
+instanceKlass sun/reflect/Label
+instanceKlass sun/reflect/UTF8
+instanceKlass sun/reflect/ClassFileAssembler
+instanceKlass sun/reflect/ByteVectorImpl
+instanceKlass sun/reflect/ByteVector
+instanceKlass sun/reflect/ByteVectorFactory
+instanceKlass sun/reflect/AccessorGenerator
+instanceKlass sun/reflect/ClassFileConstants
+instanceKlass java/lang/annotation/Target
+instanceKlass java/lang/reflect/WeakCache$Value
+instanceKlass sun/misc/ProxyGenerator$ExceptionTableEntry
+instanceKlass sun/misc/ProxyGenerator$PrimitiveTypeInfo
+instanceKlass sun/misc/ProxyGenerator$FieldInfo
+instanceKlass java/io/DataOutput
+instanceKlass sun/misc/ProxyGenerator$ConstantPool$Entry
+instanceKlass sun/misc/ProxyGenerator$MethodInfo
+instanceKlass sun/misc/ProxyGenerator$ProxyMethod
+instanceKlass sun/misc/ProxyGenerator$ConstantPool
+instanceKlass sun/misc/ProxyGenerator
+instanceKlass java/lang/reflect/WeakCache$Factory
+instanceKlass java/lang/reflect/Proxy$ProxyClassFactory
+instanceKlass java/lang/reflect/Proxy$KeyFactory
+instanceKlass java/lang/reflect/WeakCache
+instanceKlass java/lang/reflect/Proxy
+instanceKlass sun/reflect/annotation/AnnotationInvocationHandler
+instanceKlass java/lang/reflect/InvocationHandler
+instanceKlass sun/reflect/annotation/AnnotationParser$1
+instanceKlass sun/reflect/annotation/ExceptionProxy
+instanceKlass java/lang/annotation/Inherited
+instanceKlass java/lang/annotation/Retention
+instanceKlass sun/reflect/annotation/AnnotationType$1
+instanceKlass java/lang/reflect/GenericArrayType
+instanceKlass java/lang/annotation/Documented
+instanceKlass sun/reflect/generics/visitor/Reifier
+instanceKlass sun/reflect/generics/visitor/TypeTreeVisitor
+instanceKlass sun/reflect/generics/factory/CoreReflectionFactory
+instanceKlass sun/reflect/generics/factory/GenericsFactory
+instanceKlass sun/reflect/generics/scope/AbstractScope
+instanceKlass sun/reflect/generics/scope/Scope
+instanceKlass sun/reflect/generics/tree/ClassTypeSignature
+instanceKlass sun/reflect/generics/tree/SimpleClassTypeSignature
+instanceKlass sun/reflect/generics/tree/FieldTypeSignature
+instanceKlass sun/reflect/generics/tree/BaseType
+instanceKlass sun/reflect/generics/tree/TypeSignature
+instanceKlass sun/reflect/generics/tree/ReturnType
+instanceKlass sun/reflect/generics/tree/TypeArgument
+instanceKlass sun/reflect/generics/tree/TypeTree
+instanceKlass sun/reflect/generics/tree/Tree
+instanceKlass sun/reflect/generics/parser/SignatureParser
+instanceKlass java/lang/annotation/Repeatable
+instanceKlass sun/reflect/annotation/AnnotationSupport
+instanceKlass sun/reflect/annotation/AnnotationParser
+instanceKlass edu/stanford/nlp/util/ArgumentParser$Option
+instanceKlass java/util/stream/Sink$ChainedReference
+instanceKlass java/util/stream/ReduceOps$Box
+instanceKlass java/util/stream/ReduceOps$AccumulatingSink
+instanceKlass java/util/stream/TerminalSink
+instanceKlass java/util/stream/Sink
+instanceKlass java/util/stream/ReduceOps$ReduceOp
+instanceKlass java/util/stream/TerminalOp
+instanceKlass java/util/stream/ReduceOps
+instanceKlass java/util/stream/Collectors$$Lambda$6
+instanceKlass java/util/stream/Collectors$$Lambda$5
+instanceKlass java/util/function/BinaryOperator
+instanceKlass java/util/function/BiFunction
+instanceKlass java/util/stream/Collectors$$Lambda$4
+instanceKlass java/util/function/BiConsumer
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/util/stream/Collectors$$Lambda$3
+instanceKlass java/util/function/Supplier
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/util/stream/Collectors$CollectorImpl
+instanceKlass java/util/stream/Collector
+instanceKlass java/util/stream/Collectors
+instanceKlass edu/stanford/nlp/util/ArgumentParser$$Lambda$2
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/InnerClassLambdaMetafactory$1
+instanceKlass edu/stanford/nlp/util/ArgumentParser$$Lambda$1
+instanceKlass java/lang/invoke/InfoFromMemberName
+instanceKlass java/lang/invoke/MethodHandleInfo
+instanceKlass sun/security/util/SecurityConstants
+instanceKlass java/security/AccessController$1
+instanceKlass java/lang/invoke/AbstractValidatingLambdaMetafactory
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass sun/reflect/UnsafeFieldAccessorFactory
+instanceKlass jdk/internal/org/objectweb/asm/FieldVisitor
+instanceKlass java/lang/invoke/BoundMethodHandle$Factory$1
+instanceKlass java/lang/invoke/BoundMethodHandle$SpeciesData$1
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaFormBuffer
+instanceKlass java/lang/invoke/LambdaFormEditor
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/MethodHandleImpl$Lazy
+instanceKlass java/lang/invoke/LambdaForm$BMH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/util/SubList$1
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/LambdaForm$MH
+instanceKlass java/lang/invoke/InvokerBytecodeGenerator$CpPatch
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/util/HashMap$HashIterator
+instanceKlass sun/invoke/empty/Empty
+instanceKlass sun/invoke/util/VerifyType
+instanceKlass java/lang/invoke/InvokerBytecodeGenerator$2
+instanceKlass jdk/internal/org/objectweb/asm/AnnotationVisitor
+instanceKlass jdk/internal/org/objectweb/asm/Frame
+instanceKlass jdk/internal/org/objectweb/asm/Label
+instanceKlass jdk/internal/org/objectweb/asm/Type
+instanceKlass jdk/internal/org/objectweb/asm/MethodVisitor
+instanceKlass jdk/internal/org/objectweb/asm/Item
+instanceKlass jdk/internal/org/objectweb/asm/ByteVector
+instanceKlass jdk/internal/org/objectweb/asm/ClassVisitor
+instanceKlass java/lang/invoke/InvokerBytecodeGenerator
+instanceKlass java/util/AbstractList$Itr
+instanceKlass java/util/Collections$UnmodifiableCollection$1
+instanceKlass java/lang/invoke/DirectMethodHandle$Lazy
+instanceKlass sun/invoke/util/BytecodeDescriptor
+instanceKlass java/lang/invoke/BoundMethodHandle$Factory
+instanceKlass java/lang/invoke/BoundMethodHandle$SpeciesData
+instanceKlass java/lang/invoke/LambdaForm$NamedFunction
+instanceKlass java/lang/invoke/LambdaForm$Name
+instanceKlass sun/invoke/util/ValueConversions
+instanceKlass sun/invoke/util/VerifyAccess
+instanceKlass java/lang/Long$LongCache
+instanceKlass java/lang/Character$CharacterCache
+instanceKlass java/lang/Short$ShortCache
+instanceKlass java/lang/Byte$ByteCache
+instanceKlass sun/invoke/util/Wrapper$Format
+instanceKlass java/lang/invoke/MethodHandles
+instanceKlass java/lang/invoke/Invokers
+instanceKlass java/lang/invoke/MethodTypeForm
+instanceKlass java/lang/invoke/MethodType$ConcurrentWeakInternSet
+instanceKlass java/lang/invoke/MethodHandles$Lookup
+instanceKlass java/lang/invoke/LambdaMetafactory
+instanceKlass java/lang/Class$4
+instanceKlass java/util/EnumMap$1
+instanceKlass java/util/stream/StreamOpFlag$MaskBuilder
+instanceKlass java/util/stream/PipelineHelper
+instanceKlass java/util/stream/Stream
+instanceKlass java/util/stream/BaseStream
+instanceKlass java/util/stream/StreamSupport
+instanceKlass java/util/Spliterators$ArraySpliterator
+instanceKlass java/util/Spliterator$OfDouble
+instanceKlass java/util/Spliterator$OfLong
+instanceKlass java/util/Spliterator$OfInt
+instanceKlass java/util/Spliterator$OfPrimitive
+instanceKlass java/util/Spliterators$EmptySpliterator
+instanceKlass java/util/Spliterator
+instanceKlass java/util/Spliterators
+instanceKlass java/util/concurrent/ExecutorService
+instanceKlass java/net/InetAddress$CacheEntry
+instanceKlass java/util/LinkedList$ListItr
+instanceKlass java/util/ListIterator
+instanceKlass java/util/LinkedHashMap$LinkedHashIterator
+instanceKlass sun/net/InetAddressCachePolicy$2
+instanceKlass java/util/Properties$LineReader
+instanceKlass java/security/Security$1
+instanceKlass java/security/Security
+instanceKlass sun/net/InetAddressCachePolicy$1
+instanceKlass sun/net/InetAddressCachePolicy
+instanceKlass java/net/Inet4AddressImpl
+instanceKlass java/net/Inet6Address$Inet6AddressHolder
+instanceKlass java/util/ArrayList$Itr
+instanceKlass java/net/InetAddress$2
+instanceKlass sun/net/spi/nameservice/NameService
+instanceKlass java/net/Inet6AddressImpl
+instanceKlass java/net/InetAddressImpl
+instanceKlass java/net/InetAddressImplFactory
+instanceKlass java/net/InetAddress$Cache
+instanceKlass java/net/InetAddress$InetAddressHolder
+instanceKlass java/net/InetAddress$1
+instanceKlass sun/security/action/GetBooleanAction
+instanceKlass java/net/InetAddress
+instanceKlass edu/stanford/nlp/util/ArgumentParser
+instanceKlass java/lang/Void
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer$FileHandler
+instanceKlass java/util/function/Consumer
+instanceKlass java/util/function/Predicate
+instanceKlass java/util/Optional
+instanceKlass com/sun/net/httpserver/Authenticator
+instanceKlass com/sun/net/httpserver/HttpsConfigurator
+instanceKlass java/util/concurrent/Executor
+instanceKlass com/sun/net/httpserver/HttpHandler
+instanceKlass com/sun/net/httpserver/HttpServer
+instanceKlass java/lang/Class$MethodArray
+instanceKlass sun/launcher/LauncherHelper$FXHelper
+instanceKlass edu/stanford/nlp/pipeline/StanfordCoreNLPServer
+instanceKlass java/io/FilePermission$1
+instanceKlass sun/net/www/MessageHeader
+instanceKlass java/net/URLConnection
+instanceKlass java/security/PermissionCollection
+instanceKlass sun/nio/ByteBuffered
+instanceKlass java/lang/Package
+instanceKlass java/util/jar/Attributes$Name
+instanceKlass java/util/jar/Attributes
+instanceKlass sun/misc/Resource
+instanceKlass java/nio/file/attribute/FileTime
+instanceKlass java/util/zip/ZipUtils
+instanceKlass sun/misc/IOUtils
+instanceKlass java/util/zip/ZStreamRef
+instanceKlass java/util/zip/Inflater
+instanceKlass java/util/zip/ZipEntry
+instanceKlass sun/misc/ExtensionDependency
+instanceKlass sun/misc/JarIndex
+instanceKlass sun/nio/ch/DirectBuffer
+instanceKlass sun/misc/PerfCounter$CoreCounters
+instanceKlass sun/misc/Perf
+instanceKlass sun/misc/Perf$GetPerfAction
+instanceKlass sun/misc/PerfCounter
+instanceKlass java/util/zip/ZipCoder
+instanceKlass java/util/Deque
+instanceKlass java/util/Queue
+instanceKlass java/nio/charset/StandardCharsets
+instanceKlass java/util/jar/JavaUtilJarAccessImpl
+instanceKlass sun/misc/JavaUtilJarAccess
+instanceKlass sun/misc/FileURLMapper
+instanceKlass sun/misc/URLClassPath$JarLoader$1
+instanceKlass sun/nio/cs/ThreadLocalCoders$Cache
+instanceKlass sun/nio/cs/ThreadLocalCoders
+instanceKlass java/util/zip/ZipFile$1
+instanceKlass sun/misc/JavaUtilZipFileAccess
+instanceKlass java/util/zip/ZipFile
+instanceKlass java/util/zip/ZipConstants
+instanceKlass sun/misc/URLClassPath$Loader
+instanceKlass sun/misc/URLClassPath$3
+instanceKlass sun/net/util/URLUtil
+instanceKlass java/net/URLClassLoader$1
+instanceKlass java/io/FileOutputStream$1
+instanceKlass sun/usagetracker/UsageTrackerClient$3
+instanceKlass sun/usagetracker/UsageTrackerClient$2
+instanceKlass sun/usagetracker/UsageTrackerClient$4
+instanceKlass sun/usagetracker/UsageTrackerClient$1
+instanceKlass java/util/concurrent/atomic/AtomicBoolean
+instanceKlass sun/usagetracker/UsageTrackerClient
+instanceKlass sun/misc/PostVMInitHook$1
+instanceKlass jdk/internal/util/EnvUtils
+instanceKlass sun/misc/PostVMInitHook$2
+instanceKlass sun/misc/PostVMInitHook
+instanceKlass java/lang/invoke/MethodHandleStatics$1
+instanceKlass java/lang/invoke/MethodHandleStatics
+instanceKlass java/lang/invoke/MemberName$Factory
+instanceKlass java/lang/ClassValue$Version
+instanceKlass java/lang/ClassValue$Identity
+instanceKlass java/lang/ClassValue
+instanceKlass java/lang/invoke/MethodHandleImpl$3
+instanceKlass java/lang/invoke/MethodHandleImpl$2
+instanceKlass java/util/function/Function
+instanceKlass java/lang/invoke/MethodHandleImpl$1
+instanceKlass java/lang/invoke/MethodHandleImpl
+instanceKlass java/lang/SystemClassLoaderAction
+instanceKlass sun/misc/Launcher$AppClassLoader$1
+instanceKlass sun/misc/URLClassPath
+instanceKlass java/security/Principal
+instanceKlass java/security/ProtectionDomain$Key
+instanceKlass java/security/ProtectionDomain$2
+instanceKlass sun/misc/JavaSecurityProtectionDomainAccess
+instanceKlass java/security/ProtectionDomain$JavaSecurityAccessImpl
+instanceKlass sun/misc/JavaSecurityAccess
+instanceKlass sun/net/util/IPAddressUtil
+instanceKlass java/net/URLStreamHandler
+instanceKlass java/net/Parts
+instanceKlass java/util/BitSet
+instanceKlass sun/net/www/ParseUtil
+instanceKlass java/io/FileInputStream$1
+instanceKlass java/lang/CharacterData
+instanceKlass sun/util/locale/LocaleUtils
+instanceKlass java/util/Locale$LocaleKey
+instanceKlass sun/util/locale/BaseLocale$Key
+instanceKlass sun/util/locale/BaseLocale
+instanceKlass java/util/concurrent/ConcurrentHashMap$CollectionView
+instanceKlass java/util/concurrent/ConcurrentHashMap$CounterCell
+instanceKlass java/util/concurrent/ConcurrentHashMap$Node
+instanceKlass java/util/concurrent/locks/ReentrantLock
+instanceKlass java/util/concurrent/locks/Lock
+instanceKlass java/util/concurrent/ConcurrentMap
+instanceKlass sun/util/locale/LocaleObjectCache
+instanceKlass java/util/Locale
+instanceKlass java/lang/reflect/Array
+instanceKlass java/io/Reader
+instanceKlass sun/misc/MetaIndex
+instanceKlass java/util/StringTokenizer
+instanceKlass sun/misc/Launcher$ExtClassLoader$1
+instanceKlass java/net/URLClassLoader$7
+instanceKlass sun/misc/JavaNetAccess
+instanceKlass java/lang/ClassLoader$ParallelLoaders
+instanceKlass sun/security/util/Debug
+instanceKlass sun/misc/Launcher$Factory
+instanceKlass java/net/URLStreamHandlerFactory
+instanceKlass java/lang/Compiler$1
+instanceKlass java/lang/Compiler
+instanceKlass java/lang/System$2
+instanceKlass sun/misc/JavaLangAccess
+instanceKlass sun/io/Win32ErrorMode
+instanceKlass sun/misc/OSEnvironment
+instanceKlass java/lang/Integer$IntegerCache
+instanceKlass sun/misc/NativeSignalHandler
+instanceKlass sun/misc/Signal
+instanceKlass java/lang/Terminator$1
+instanceKlass sun/misc/SignalHandler
+instanceKlass java/lang/Terminator
+instanceKlass java/lang/ClassLoader$NativeLibrary
+instanceKlass java/io/ExpiringCache$Entry
+instanceKlass java/lang/ClassLoader$3
+instanceKlass java/lang/StringCoding$StringEncoder
+instanceKlass java/nio/file/Path
+instanceKlass java/nio/file/Watchable
+instanceKlass java/lang/Enum
+instanceKlass java/io/ExpiringCache
+instanceKlass java/io/FileSystem
+instanceKlass java/io/DefaultFileSystem
+instanceKlass sun/security/action/GetPropertyAction
+instanceKlass java/nio/charset/CoderResult$Cache
+instanceKlass java/nio/charset/CoderResult
+instanceKlass java/lang/Readable
+instanceKlass java/nio/Bits$1
+instanceKlass sun/misc/JavaNioAccess
+instanceKlass java/nio/ByteOrder
+instanceKlass java/nio/Bits
+instanceKlass java/nio/charset/CharsetEncoder
+instanceKlass sun/nio/cs/ArrayEncoder
+instanceKlass java/io/Writer
+instanceKlass sun/reflect/misc/ReflectUtil
+instanceKlass java/util/concurrent/atomic/AtomicReferenceFieldUpdater$AtomicReferenceFieldUpdaterImpl$1
+instanceKlass java/security/PrivilegedExceptionAction
+instanceKlass java/util/concurrent/atomic/AtomicReferenceFieldUpdater
+instanceKlass java/io/OutputStream
+instanceKlass java/io/Flushable
+instanceKlass java/io/FileDescriptor$1
+instanceKlass sun/misc/JavaIOFileDescriptorAccess
+instanceKlass java/io/FileDescriptor
+instanceKlass sun/misc/Version
+instanceKlass java/lang/Runtime
+instanceKlass java/util/Hashtable$Enumerator
+instanceKlass java/util/Iterator
+instanceKlass java/util/Enumeration
+instanceKlass java/util/Objects
+instanceKlass java/util/Collections$SynchronizedCollection
+instanceKlass java/nio/charset/CodingErrorAction
+instanceKlass java/nio/charset/CharsetDecoder
+instanceKlass sun/nio/cs/ArrayDecoder
+instanceKlass sun/nio/cs/ext/DelegatableDecoder
+instanceKlass sun/nio/cs/ext/DoubleByte
+instanceKlass java/lang/StringCoding$StringDecoder
+instanceKlass java/lang/ThreadLocal$ThreadLocalMap
+instanceKlass java/lang/StringCoding
+instanceKlass sun/nio/cs/HistoricallyNamedCharset
+instanceKlass java/util/TreeMap$Entry
+instanceKlass sun/misc/ASCIICaseInsensitiveComparator
+instanceKlass java/util/NavigableMap
+instanceKlass java/util/SortedMap
+instanceKlass sun/reflect/ReflectionFactory$1
+instanceKlass java/lang/Class$1
+instanceKlass java/nio/charset/Charset$ExtendedProviderHolder$1
+instanceKlass java/nio/charset/Charset$ExtendedProviderHolder
+instanceKlass java/util/Arrays
+instanceKlass java/lang/reflect/ReflectAccess
+instanceKlass sun/reflect/LangReflectAccess
+instanceKlass java/lang/reflect/Modifier
+instanceKlass sun/reflect/annotation/AnnotationType
+instanceKlass java/lang/Class$AnnotationData
+instanceKlass sun/reflect/generics/repository/AbstractRepository
+instanceKlass java/lang/Class$Atomic
+instanceKlass java/lang/Class$ReflectionData
+instanceKlass java/lang/Class$3
+instanceKlass java/lang/ThreadLocal
+instanceKlass java/nio/charset/spi/CharsetProvider
+instanceKlass java/nio/charset/Charset
+instanceKlass java/lang/Math
+instanceKlass java/util/Hashtable$Entry
+instanceKlass sun/misc/VM
+instanceKlass java/util/HashMap$Node
+instanceKlass java/util/Map$Entry
+instanceKlass sun/reflect/Reflection
+instanceKlass sun/misc/SharedSecrets
+instanceKlass java/lang/ref/Reference$1
+instanceKlass sun/misc/JavaLangRefAccess
+instanceKlass java/lang/ref/ReferenceQueue$Lock
+instanceKlass java/util/Collections$UnmodifiableCollection
+instanceKlass java/util/AbstractMap
+instanceKlass java/util/Set
+instanceKlass java/util/Collections
+instanceKlass java/lang/ref/Reference$Lock
+instanceKlass sun/reflect/ReflectionFactory
+instanceKlass java/util/AbstractCollection
+instanceKlass java/util/RandomAccess
+instanceKlass java/util/List
+instanceKlass java/util/Collection
+instanceKlass java/lang/Iterable
+instanceKlass java/security/cert/Certificate
+instanceKlass sun/reflect/ReflectionFactory$GetReflectionFactoryAction
+instanceKlass java/security/PrivilegedAction
+instanceKlass java/security/AccessController
+instanceKlass java/security/Permission
+instanceKlass java/security/Guard
+instanceKlass java/lang/String$CaseInsensitiveComparator
+instanceKlass java/util/Comparator
+instanceKlass java/io/ObjectStreamField
+instanceKlass java/lang/Number
+instanceKlass java/lang/Character
+instanceKlass java/lang/Boolean
+instanceKlass java/nio/Buffer
+instanceKlass java/lang/StackTraceElement
+instanceKlass java/security/CodeSource
+instanceKlass sun/misc/Launcher
+instanceKlass java/util/jar/Manifest
+instanceKlass java/net/URL
+instanceKlass java/io/File
+instanceKlass java/io/InputStream
+instanceKlass java/io/Closeable
+instanceKlass java/lang/AutoCloseable
+instanceKlass sun/misc/Unsafe
+instanceKlass java/lang/AbstractStringBuilder
+instanceKlass java/lang/Appendable
+instanceKlass java/lang/invoke/CallSite
+instanceKlass java/lang/invoke/MethodType
+instanceKlass java/lang/invoke/LambdaForm
+instanceKlass java/lang/invoke/MethodHandleNatives
+instanceKlass java/lang/invoke/MemberName
+instanceKlass java/lang/invoke/MethodHandle
+instanceKlass sun/reflect/CallerSensitive
+instanceKlass java/lang/annotation/Annotation
+instanceKlass sun/reflect/FieldAccessor
+instanceKlass sun/reflect/ConstantPool
+instanceKlass sun/reflect/ConstructorAccessor
+instanceKlass sun/reflect/MethodAccessor
+instanceKlass sun/reflect/MagicAccessorImpl
+instanceKlass java/lang/reflect/Parameter
+instanceKlass java/lang/reflect/Member
+instanceKlass java/lang/reflect/AccessibleObject
+instanceKlass java/util/Dictionary
+instanceKlass java/util/Map
+instanceKlass java/lang/ThreadGroup
+instanceKlass java/lang/Thread$UncaughtExceptionHandler
+instanceKlass java/lang/Thread
+instanceKlass java/lang/Runnable
+instanceKlass java/lang/ref/ReferenceQueue
+instanceKlass java/lang/ref/Reference
+instanceKlass java/security/AccessControlContext
+instanceKlass java/security/ProtectionDomain
+instanceKlass java/lang/SecurityManager
+instanceKlass java/lang/Throwable
+instanceKlass java/lang/System
+instanceKlass java/lang/ClassLoader
+instanceKlass java/lang/Cloneable
+instanceKlass java/lang/Class
+instanceKlass java/lang/reflect/Type
+instanceKlass java/lang/reflect/GenericDeclaration
+instanceKlass java/lang/reflect/AnnotatedElement
+instanceKlass java/lang/String
+instanceKlass java/lang/CharSequence
+instanceKlass java/lang/Comparable
+instanceKlass java/io/Serializable
+ciInstanceKlass java/lang/Object 1 1 75 3 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 7 100 100 7 7 100 7 1 1 1 12 12 12 12 12 12 12 12 12 12 10 10 10 10 10 10 10 10 10 10
+ciInstanceKlass java/io/Serializable 1 0 5 1 1 100 100
+ciInstanceKlass java/lang/Comparable 1 0 10 1 1 1 1 1 100 100 1 1
+ciInstanceKlass java/lang/String 1 1 539 3 3 3 3 8 8 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 100 100 7 7 100 100 100 7 7 100 100 7 100 100 100 7 7 100 7 100 7 7 100 7 7 100 7 100 7 100 100 7 7 7 7 7 7 7 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 1
+staticfield java/lang/String serialPersistentFields [Ljava/io/ObjectStreamField; 0 [Ljava/io/ObjectStreamField;
+staticfield java/lang/String CASE_INSENSITIVE_ORDER Ljava/util/Comparator; java/lang/String$CaseInsensitiveComparator
+ciInstanceKlass java/lang/reflect/Type 1 1 11 1 1 1 1 1 1 100 100 12 10
+ciInstanceKlass java/lang/Class 1 1 1187 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 5 0 8 8 8 8 8 7 7 7 100 100 100 100 7 100 7 100 7 7 7 7 100 7 7 100 7 100 100 100 7 100 100 100 100 100 100 7 7 7 100 100 100 100 7 7 7 100 100 100 7 100 100 7 7 100 100 100 7 7 100 100 100 7 7 7 100 100 7 100 100 100 100 7 100 7 100 100 100 7 7 7 7 100 100 100 100 100 100 100 100 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 1 1 1 1 1 1 1
+staticfield java/lang/Class serialPersistentFields [Ljava/io/ObjectStreamField; 0 [Ljava/io/ObjectStreamField;
+ciInstanceKlass java/lang/Cloneable 1 0 5 1 1 100 100
+instanceKlass java/util/ResourceBundle$RBClassLoader
+instanceKlass sun/reflect/DelegatingClassLoader
+instanceKlass java/security/SecureClassLoader
+ciInstanceKlass java/lang/ClassLoader 1 1 825 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 7 7 7 100 100 100 100 7 100 100 7 7 7 7 100 7 100 100 100 100 7 7 100 100 7 100 7 7 100 100 100 100 7 100 100 7 7 100 7 7 100 100 7 7 7 100 7 7 7 7 7 7 100 7 7 7 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 1 1
+staticfield java/lang/ClassLoader nocerts [Ljava/security/cert/Certificate; 0 [Ljava/security/cert/Certificate;
+ciInstanceKlass java/lang/System 1 1 366 8 8 8 8 8 8 8 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 7 7 7 7 100 7 100 100 100 100 100 100 7 7 100 100 7 100 100 7 7 7 7 100 100 100 7 100 100 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11
+staticfield java/lang/System in Ljava/io/InputStream; java/io/BufferedInputStream
+staticfield java/lang/System out Ljava/io/PrintStream; java/io/PrintStream
+staticfield java/lang/System err Ljava/io/PrintStream; java/io/PrintStream
+instanceKlass java/lang/Exception
+instanceKlass java/lang/Error
+ciInstanceKlass java/lang/Throwable 1 1 350 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 100 100 100 100 100 100 7 100 100 100 100 100 100 7 100 7 100 100 100 100 100 100 100 100 100 7 7 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 1 1 1 1
+staticfield java/lang/Throwable UNASSIGNED_STACK [Ljava/lang/StackTraceElement; 0 [Ljava/lang/StackTraceElement;
+staticfield java/lang/Throwable SUPPRESSED_SENTINEL Ljava/util/List; java/util/Collections$UnmodifiableRandomAccessList
+staticfield java/lang/Throwable EMPTY_THROWABLE_ARRAY [Ljava/lang/Throwable; 0 [Ljava/lang/Throwable;
+staticfield java/lang/Throwable $assertionsDisabled Z 1
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParser$LookaheadSuccess
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TokenMgrError
+instanceKlass edu/stanford/nlp/semgraph/semgrex/TokenMgrError
+instanceKlass edu/stanford/nlp/trees/tregex/TregexParser$LookaheadSuccess
+instanceKlass edu/stanford/nlp/trees/tregex/TokenMgrError
+instanceKlass java/lang/AssertionError
+instanceKlass java/lang/VirtualMachineError
+instanceKlass java/lang/LinkageError
+instanceKlass java/lang/ThreadDeath
+ciInstanceKlass java/lang/Error 1 1 27 1 1 1 1 1 1 1 1 1 1 5 0 100 7 1 1 12 12 12 12 12 10 10 10 10 10
+ciInstanceKlass java/lang/ThreadDeath 0 0 15 1 1 1 1 1 1 1 1 5 0 100 100 12 10
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/ParseException
+instanceKlass edu/stanford/nlp/semgraph/semgrex/ParseException
+instanceKlass edu/stanford/nlp/trees/tregex/ParseException
+instanceKlass java/lang/CloneNotSupportedException
+instanceKlass java/util/concurrent/ExecutionException
+instanceKlass java/util/concurrent/TimeoutException
+instanceKlass java/security/PrivilegedActionException
+instanceKlass java/security/GeneralSecurityException
+instanceKlass java/io/IOException
+instanceKlass java/lang/InterruptedException
+instanceKlass java/lang/ReflectiveOperationException
+instanceKlass java/lang/RuntimeException
+ciInstanceKlass java/lang/Exception 1 1 27 1 1 1 1 1 1 1 1 1 1 5 0 100 7 1 1 12 12 12 12 12 10 10 10 10 10
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonRuntimeException
+instanceKlass edu/stanford/nlp/trees/tregex/tsurgeon/TsurgeonParseException
+instanceKlass edu/stanford/nlp/semgraph/semgrex/SemgrexParseException
+instanceKlass edu/stanford/nlp/math/ArrayMath$InvalidElementException
+instanceKlass edu/stanford/nlp/trees/tregex/TregexParseException
+instanceKlass java/util/concurrent/RejectedExecutionException
+instanceKlass java/lang/IndexOutOfBoundsException
+instanceKlass java/util/NoSuchElementException
+instanceKlass java/lang/UnsupportedOperationException
+instanceKlass edu/stanford/nlp/util/ReflectionLoading$ReflectionLoadingException
+instanceKlass java/lang/SecurityException
+instanceKlass edu/stanford/nlp/util/MetaClass$ClassCreationException
+instanceKlass edu/stanford/nlp/util/RuntimeInterruptedException
+instanceKlass java/lang/reflect/UndeclaredThrowableException
+instanceKlass java/lang/invoke/WrongMethodTypeException
+instanceKlass edu/stanford/nlp/io/RuntimeIOException
+instanceKlass java/lang/IllegalStateException
+instanceKlass java/lang/IllegalArgumentException
+instanceKlass java/lang/ArithmeticException
+instanceKlass java/lang/NullPointerException
+instanceKlass java/lang/IllegalMonitorStateException
+instanceKlass java/lang/ArrayStoreException
+instanceKlass java/lang/ClassCastException
+ciInstanceKlass java/lang/RuntimeException 1 1 27 1 1 1 1 1 1 1 1 1 1 5 0 7 100 1 1 12 12 12 12 12 10 10 10 10 10
+ciInstanceKlass java/lang/SecurityManager 0 0 372 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+ciInstanceKlass java/security/ProtectionDomain 1 1 269 8 8 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 7 100 100 100 100 100 100 100 100 100 7 7 100 7 7 100 7 7 7 100 100 100 7 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 1
+staticfield java/security/ProtectionDomain debug Lsun/security/util/Debug; null
+ciInstanceKlass java/security/AccessControlContext 1 1 302 8 8 8 8 8 8 8 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 7 100 100 100 100 100 7 100 100 7 100 100 7 100 7 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11
+instanceKlass java/net/URLClassLoader
+ciInstanceKlass java/security/SecureClassLoader 1 1 127 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 100 100 100 100 7 100 7 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+staticfield java/security/SecureClassLoader debug Lsun/security/util/Debug; null
+instanceKlass java/lang/reflect/InvocationTargetException
+instanceKlass java/lang/NoSuchFieldException
+instanceKlass java/lang/InstantiationException
+instanceKlass java/lang/NoSuchMethodException
+instanceKlass java/lang/IllegalAccessException
+instanceKlass java/lang/ClassNotFoundException
+ciInstanceKlass java/lang/ReflectiveOperationException 1 1 24 1 1 1 1 1 1 1 1 1 1 5 0 7 100 1 12 12 12 12 10 10 10 10
+ciInstanceKlass java/lang/ClassNotFoundException 1 1 29 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 7 100 1 1 1 12 12 12 9 10 10
+instanceKlass java/lang/IncompatibleClassChangeError
+instanceKlass java/lang/BootstrapMethodError
+instanceKlass java/lang/NoClassDefFoundError
+ciInstanceKlass java/lang/LinkageError 1 1 21 1 1 1 1 1 1 1 1 1 5 0 7 100 1 12 12 12 10 10 10
+ciInstanceKlass java/lang/NoClassDefFoundError 0 0 18 1 1 1 1 1 1 1 1 1 5 0 100 100 12 12 10 10
+ciInstanceKlass java/lang/ClassCastException 1 1 18 1 1 1 1 1 1 1 1 1 5 0 100 100 12 12 10 10
+ciInstanceKlass java/lang/ArrayStoreException 1 1 18 1 1 1 1 1 1 1 1 1 5 0 100 100 12 12 10 10
+instanceKlass java/lang/StackOverflowError
+instanceKlass java/lang/OutOfMemoryError
+ciInstanceKlass java/lang/VirtualMachineError 1 1 24 1 1 1 1 1 1 1 1 1 1 5 0 100 100 1 12 12 12 12 10 10 10 10
+ciInstanceKlass java/lang/OutOfMemoryError 1 1 18 1 1 1 1 1 1 1 1 1 5 0 100 100 12 12 10 10
+ciInstanceKlass java/lang/StackOverflowError 1 1 18 1 1 1 1 1 1 1 1 1 5 0 100 100 12 12 10 10
+ciInstanceKlass java/lang/IllegalMonitorStateException 1 1 18 1 1 1 1 1 1 1 1 1 5 0 100 100 12 12 10 10
+instanceKlass java/lang/ref/PhantomReference
+instanceKlass java/lang/ref/FinalReference
+instanceKlass java/lang/ref/WeakReference
+instanceKlass java/lang/ref/SoftReference
+ciInstanceKlass java/lang/ref/Reference 1 1 131 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 7 100 7 7 100 7 7 7 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1 1
+instanceKlass sun/util/locale/provider/LocaleResources$ResourceReference
+instanceKlass java/util/ResourceBundle$BundleReference
+instanceKlass java/lang/invoke/LambdaFormEditor$Transform
+instanceKlass sun/util/locale/LocaleObjectCache$CacheEntry
+ciInstanceKlass java/lang/ref/SoftReference 1 1 32 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 7 7 1 1 1 1 12 12 12 12 12 9 9 10 10 10
+instanceKlass java/io/ObjectStreamClass$FieldReflectorKey
+instanceKlass java/io/ObjectStreamClass$WeakClassKey
+instanceKlass java/util/logging/LogManager$LoggerWeakRef
+instanceKlass java/util/ResourceBundle$LoaderReference
+instanceKlass java/lang/reflect/WeakCache$CacheValue
+instanceKlass java/lang/reflect/Proxy$Key1
+instanceKlass java/lang/reflect/WeakCache$CacheKey
+instanceKlass java/lang/invoke/MethodType$ConcurrentWeakInternSet$WeakEntry
+instanceKlass java/lang/ClassValue$Entry
+instanceKlass java/util/WeakHashMap$Entry
+instanceKlass java/lang/ThreadLocal$ThreadLocalMap$Entry
+ciInstanceKlass java/lang/ref/WeakReference 1 1 17 1 1 1 1 1 1 7 100 1 1 1 1 12 12 10 10
+instanceKlass java/lang/ref/Finalizer
+ciInstanceKlass java/lang/ref/FinalReference 1 1 13 1 1 1 1 1 100 7 1 1 1 12 10
+instanceKlass sun/misc/Cleaner
+ciInstanceKlass java/lang/ref/PhantomReference 1 1 16 1 1 1 1 1 1 1 1 100 7 1 1 1 12 10
+ciInstanceKlass sun/misc/Cleaner 1 1 71 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 100 7 7 100 7 100 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 10 10 10 10 10 10 10 11
+staticfield sun/misc/Cleaner dummyQueue Ljava/lang/ref/ReferenceQueue; java/lang/ref/ReferenceQueue
+ciInstanceKlass java/lang/ref/Finalizer 1 1 147 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 7 7 7 100 7 7 100 100 100 7 7 100 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 1
+staticfield java/lang/ref/Finalizer lock Ljava/lang/Object; java/lang/Object
+instanceKlass java/lang/ref/ReferenceQueue$Null
+ciInstanceKlass java/lang/ref/ReferenceQueue 1 1 127 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 7 100 100 7 100 100 7 7 100 7 7 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 11 1
+staticfield java/lang/ref/ReferenceQueue $assertionsDisabled Z 1
+instanceKlass java/util/TimerThread
+instanceKlass java/util/logging/LogManager$Cleaner
+instanceKlass edu/stanford/nlp/util/logging/RedwoodConfiguration$3
+instanceKlass java/lang/ref/Finalizer$FinalizerThread
+instanceKlass java/lang/ref/Reference$ReferenceHandler
+ciInstanceKlass java/lang/Thread 1 1 536 3 3 8 8 8 8 8 8 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 100 100 100 100 100 100 100 100 100 100 100 100 7 7 7 100 7 100 7 7 100 100 100 100 100 100 7 100 100 100 100 100 100 100 7 100 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 1 1 1 1
+staticfield java/lang/Thread EMPTY_STACK_TRACE [Ljava/lang/StackTraceElement; 0 [Ljava/lang/StackTraceElement;
+staticfield java/lang/Thread SUBCLASS_IMPLEMENTATION_PERMISSION Ljava/lang/RuntimePermission; java/lang/RuntimePermission
+ciInstanceKlass java/lang/ThreadGroup 1 1 265 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 100 100 100 100 100 7 100 100 7 7 100 100 7 100 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 1
+ciInstanceKlass java/util/Map 1 1 129 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 7 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 10 10 10 11 11 11 11 11 11 11 11 11 11 11 11 11 11
+instanceKlass java/util/Hashtable
+ciInstanceKlass java/util/Dictionary 1 1 28 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 100 1 1 1 1 1 1 12 10
+instanceKlass java/util/Properties
+ciInstanceKlass java/util/Hashtable 1 1 413 3 3 4 4 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 5 0 100 7 7 100 100 7 100 7 100 100 7 100 100 7 100 7 100 100 100 7 100 7 7 100 7 7 7 7 100 7 7 7 7 7 7 100 100 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 11 11 11 11 11 1 1 1 1
+instanceKlass edu/stanford/nlp/tagger/maxent/TaggerConfig
+instanceKlass java/security/Provider
+ciInstanceKlass java/util/Properties 1 1 260 3 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 7 100 100 100 100 100 100 100 100 7 100 100 100 100 7 7 7 100 7 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 1 1
+staticfield java/util/Properties hexDigit [C 16
+instanceKlass java/lang/reflect/Executable
+instanceKlass java/lang/reflect/Field
+ciInstanceKlass java/lang/reflect/AccessibleObject 1 1 141 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 7 100 100 7 7 100 7 100 7 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 1
+staticfield java/lang/reflect/AccessibleObject ACCESS_PERMISSION Ljava/security/Permission; java/lang/reflect/ReflectPermission
+staticfield java/lang/reflect/AccessibleObject reflectionFactory Lsun/reflect/ReflectionFactory; sun/reflect/ReflectionFactory
+ciInstanceKlass java/lang/reflect/Field 1 1 359 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 100 100 100 100 7 7 7 100 100 100 7 7 7 7 7 7 7 7 7 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 1
+ciInstanceKlass java/lang/reflect/Parameter 0 0 207 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11
+instanceKlass java/lang/reflect/Constructor
+instanceKlass java/lang/reflect/Method
+ciInstanceKlass java/lang/reflect/Executable 1 1 375 3 8 8 8 8 8 8 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 100 100 100 100 100 100 100 100 100 7 7 100 100 100 7 100 100 100 100 100 100 100 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 1
+ciInstanceKlass java/lang/reflect/Method 1 1 343 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 100 100 100 100 100 100 100 100 7 100 7 100 100 100 7 7 7 7 100 7 7 7 7 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11
+ciInstanceKlass java/lang/reflect/Constructor 1 1 327 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 100 7 100 100 100 100 100 100 7 7 100 100 100 100 100 7 7 7 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 1
+instanceKlass sun/reflect/FieldAccessorImpl
+instanceKlass sun/reflect/ConstructorAccessorImpl
+instanceKlass sun/reflect/MethodAccessorImpl
+ciInstanceKlass sun/reflect/MagicAccessorImpl 1 1 10 1 1 1 1 1 7 100 12 10
+instanceKlass sun/reflect/GeneratedMethodAccessor1
+instanceKlass sun/reflect/DelegatingMethodAccessorImpl
+instanceKlass sun/reflect/NativeMethodAccessorImpl
+ciInstanceKlass sun/reflect/MethodAccessorImpl 1 1 19 1 1 1 1 1 1 1 1 1 1 1 100 100 7 100 100 12 10
+instanceKlass sun/reflect/GeneratedConstructorAccessor6
+instanceKlass sun/reflect/GeneratedConstructorAccessor5
+instanceKlass sun/reflect/GeneratedConstructorAccessor4
+instanceKlass sun/reflect/GeneratedConstructorAccessor3
+instanceKlass sun/reflect/SerializationConstructorAccessorImpl
+instanceKlass sun/reflect/GeneratedConstructorAccessor2
+instanceKlass sun/reflect/BootstrapConstructorAccessorImpl
+instanceKlass sun/reflect/GeneratedConstructorAccessor1
+instanceKlass sun/reflect/DelegatingConstructorAccessorImpl
+instanceKlass sun/reflect/NativeConstructorAccessorImpl
+ciInstanceKlass sun/reflect/ConstructorAccessorImpl 1 1 21 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 100 7 12 10
+ciInstanceKlass sun/reflect/DelegatingClassLoader 1 1 10 1 1 1 1 7 100 1 12 10
+ciInstanceKlass sun/reflect/ConstantPool 1 1 103 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+instanceKlass sun/reflect/UnsafeFieldAccessorImpl
+ciInstanceKlass sun/reflect/FieldAccessorImpl 1 1 53 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 12 10
+instanceKlass sun/reflect/UnsafeIntegerFieldAccessorImpl
+instanceKlass sun/reflect/UnsafeStaticFieldAccessorImpl
+ciInstanceKlass sun/reflect/UnsafeFieldAccessorImpl 1 1 227 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 7 100 100 100 100 100 100 7 100 100 100 7 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+staticfield sun/reflect/UnsafeFieldAccessorImpl unsafe Lsun/misc/Unsafe; sun/misc/Unsafe
+instanceKlass sun/reflect/UnsafeQualifiedStaticFieldAccessorImpl
+instanceKlass sun/reflect/UnsafeStaticObjectFieldAccessorImpl
+ciInstanceKlass sun/reflect/UnsafeStaticFieldAccessorImpl 1 1 35 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 7 7 7 1 1 1 1 12 12 12 12 12 9 9 10 10 10
+ciInstanceKlass sun/reflect/CallerSensitive 0 0 15 1 1 1 1 1 1 1 100 100 100 1 1 1 1
+instanceKlass java/lang/invoke/DelegatingMethodHandle
+instanceKlass java/lang/invoke/BoundMethodHandle
+instanceKlass java/lang/invoke/DirectMethodHandle
+ciInstanceKlass java/lang/invoke/MethodHandle 1 1 435 8 8 8 8 8 8 8 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 7 100 100 100 100 7 100 100 100 7 100 100 7 7 7 100 7 7 7 7 100 100 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 1 1
+staticfield java/lang/invoke/MethodHandle FORM_OFFSET J 20
+staticfield java/lang/invoke/MethodHandle $assertionsDisabled Z 1
+instanceKlass java/lang/invoke/DirectMethodHandle$Special
+instanceKlass java/lang/invoke/DirectMethodHandle$Constructor
+instanceKlass java/lang/invoke/DirectMethodHandle$Accessor
+instanceKlass java/lang/invoke/DirectMethodHandle$Interface
+ciInstanceKlass java/lang/invoke/DirectMethodHandle 1 1 698 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 7 7 7 7 7 7 7 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 7 7 7 100 7 100 7 7 100 7 7 100 7 7 7 7 7 7 100 7 7 100 7 7 100 7 7 7 100 100 100 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1 1 1 1 1 1 1 1 1
+staticfield java/lang/invoke/DirectMethodHandle IMPL_NAMES Ljava/lang/invoke/MemberName$Factory; java/lang/invoke/MemberName$Factory
+staticfield java/lang/invoke/DirectMethodHandle ACCESSOR_FORMS [Ljava/lang/invoke/LambdaForm; 132 [Ljava/lang/invoke/LambdaForm;
+staticfield java/lang/invoke/DirectMethodHandle $assertionsDisabled Z 1
+ciInstanceKlass java/lang/invoke/MemberName 1 1 639 3 3 3 3 3 3 3 3 3 3 3 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 7 7 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 3 3 3 3 7 7 100 100 100 7 7 100 100 100 100 100 100 100 100 100 7 100 7 7 7 7 7 100 7 7 100 100 100 100 7 100 100 100 7 7 7 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1 1 1
+staticfield java/lang/invoke/MemberName $assertionsDisabled Z 1
+ciInstanceKlass java/lang/invoke/MethodHandleNatives 1 1 424 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 100 100 7 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 7 100 100 100 100 100 100 100 100 100 100 100 100 100 7 100 7 100 100 100 7 7 7 7 7 7 100 7 7 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1 1
+staticfield java/lang/invoke/MethodHandleNatives COUNT_GWT Z 1
+staticfield java/lang/invoke/MethodHandleNatives $assertionsDisabled Z 1
+ciInstanceKlass java/lang/invoke/LambdaForm 1 1 964 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 100 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 8 100 100 100 100 7 7 100 100 100 7 100 100 100 100 100 100 100 100 7 7 7 100 7 7 100 100 100 7 100 7 100 100 7 7 7 7 7 100 100 7 7 7 7 100 100 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 1 1 1 1 1
+staticfield java/lang/invoke/LambdaForm COMPILE_THRESHOLD I 0
+staticfield java/lang/invoke/LambdaForm INTERNED_ARGUMENTS [[Ljava/lang/invoke/LambdaForm$Name; 5 [[Ljava/lang/invoke/LambdaForm$Name;
+staticfield java/lang/invoke/LambdaForm IMPL_NAMES Ljava/lang/invoke/MemberName$Factory; java/lang/invoke/MemberName$Factory
+staticfield java/lang/invoke/LambdaForm LF_identityForm [Ljava/lang/invoke/LambdaForm; 6 [Ljava/lang/invoke/LambdaForm;
+staticfield java/lang/invoke/LambdaForm LF_zeroForm [Ljava/lang/invoke/LambdaForm; 6 [Ljava/lang/invoke/LambdaForm;
+staticfield java/lang/invoke/LambdaForm NF_identity [Ljava/lang/invoke/LambdaForm$NamedFunction; 6 [Ljava/lang/invoke/LambdaForm$NamedFunction;
+staticfield java/lang/invoke/LambdaForm NF_zero [Ljava/lang/invoke/LambdaForm$NamedFunction; 6 [Ljava/lang/invoke/LambdaForm$NamedFunction;
+staticfield java/lang/invoke/LambdaForm DEBUG_NAME_COUNTERS Ljava/util/HashMap; null
+staticfield java/lang/invoke/LambdaForm TRACE_INTERPRETER Z 0
+staticfield java/lang/invoke/LambdaForm $assertionsDisabled Z 1
+ciInstanceKlass java/lang/invoke/MethodType 1 1 585 8 8 8 8 8 8 8 8 8 8 8 8 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 5 0 7 100 100 100 100 7 100 100 7 100 7 100 100 100 100 100 7 7 7 7 100 7 7 7 7 7 7 7 7 7 7 100 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 1
+staticfield java/lang/invoke/MethodType internTable Ljava/lang/invoke/MethodType$ConcurrentWeakInternSet; java/lang/invoke/MethodType$ConcurrentWeakInternSet
+staticfield java/lang/invoke/MethodType NO_PTYPES [Ljava/lang/Class; 0 [Ljava/lang/Class;
+staticfield java/lang/invoke/MethodType objectOnlyTypes [Ljava/lang/invoke/MethodType; 20 [Ljava/lang/invoke/MethodType;
+staticfield java/lang/invoke/MethodType serialPersistentFields [Ljava/io/ObjectStreamField; 0 [Ljava/io/ObjectStreamField;
+staticfield java/lang/invoke/MethodType rtypeOffset J 12
+staticfield java/lang/invoke/MethodType ptypesOffset J 16
+staticfield java/lang/invoke/MethodType $assertionsDisabled Z 1
+ciInstanceKlass java/lang/BootstrapMethodError 0 0 35 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 100 100 1 1 12 12 12 12 12 10 10 10 10 10
+instanceKlass java/lang/invoke/VolatileCallSite
+instanceKlass java/lang/invoke/MutableCallSite
+instanceKlass java/lang/invoke/ConstantCallSite
+ciInstanceKlass java/lang/invoke/CallSite 1 1 308 8 8 8 8 8 8 8 8 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 7 100 100 100 100 7 100 100 100 100 100 100 7 100 7 100 7 7 100 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1
+staticfield java/lang/invoke/CallSite GET_TARGET Ljava/lang/invoke/MethodHandle; java/lang/invoke/DirectMethodHandle
+staticfield java/lang/invoke/CallSite THROW_UCS Ljava/lang/invoke/MethodHandle; java/lang/invoke/MethodHandleImpl$AsVarargsCollector
+staticfield java/lang/invoke/CallSite TARGET_OFFSET J 12
+ciInstanceKlass java/lang/invoke/ConstantCallSite 1 1 39 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 7 7 1 1 12 12 12 12 12 12 9 9 10 10 10 10 10
+ciInstanceKlass java/lang/invoke/MutableCallSite 0 0 54 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 9 9 10 10 10 10 10 10 10 10
+ciInstanceKlass java/lang/invoke/VolatileCallSite 0 0 30 1 1 1 1 1 1 1 1 1 1 1 1 100 100 1 1 1 12 12 12 12 12 12 10 10 10 10 10 10
+instanceKlass java/lang/StringBuilder
+instanceKlass java/lang/StringBuffer
+ciInstanceKlass java/lang/AbstractStringBuilder 1 1 315 3 3 3 8 8 8 8 8 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 7 100 7 100 100 100 7 7 7 100 7 100 100 100 7 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11
+ciInstanceKlass java/lang/StringBuffer 1 1 368 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 100 100 100 7 100 7 7 100 100 7 7 7 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 1 1
+staticfield java/lang/StringBuffer serialPersistentFields [Ljava/io/ObjectStreamField; 3 [Ljava/io/ObjectStreamField;
+ciInstanceKlass java/lang/StringBuilder 1 1 323 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 100 100 100 7 100 100 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11
+ciInstanceKlass sun/misc/Unsafe 1 1 386 8 8 7 7 7 7 7 7 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 100 7 100 100 7 100 7 100 100 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+staticfield sun/misc/Unsafe theUnsafe Lsun/misc/Unsafe; sun/misc/Unsafe
+staticfield sun/misc/Unsafe ARRAY_BOOLEAN_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_BYTE_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_SHORT_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_CHAR_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_INT_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_LONG_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_FLOAT_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_DOUBLE_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_OBJECT_BASE_OFFSET I 16
+staticfield sun/misc/Unsafe ARRAY_BOOLEAN_INDEX_SCALE I 1
+staticfield sun/misc/Unsafe ARRAY_BYTE_INDEX_SCALE I 1
+staticfield sun/misc/Unsafe ARRAY_SHORT_INDEX_SCALE I 2
+staticfield sun/misc/Unsafe ARRAY_CHAR_INDEX_SCALE I 2
+staticfield sun/misc/Unsafe ARRAY_INT_INDEX_SCALE I 4
+staticfield sun/misc/Unsafe ARRAY_LONG_INDEX_SCALE I 8
+staticfield sun/misc/Unsafe ARRAY_FLOAT_INDEX_SCALE I 4
+staticfield sun/misc/Unsafe ARRAY_DOUBLE_INDEX_SCALE I 8
+staticfield sun/misc/Unsafe ARRAY_OBJECT_INDEX_SCALE I 4
+staticfield sun/misc/Unsafe ADDRESS_SIZE I 8
+instanceKlass java/io/ObjectInputStream$PeekInputStream
+instanceKlass java/io/ObjectInputStream$BlockDataInputStream
+instanceKlass java/io/ObjectInputStream
+instanceKlass sun/net/httpserver/Request$ReadStream
+instanceKlass java/util/zip/ZipFile$ZipFileInputStream
+instanceKlass java/io/FilterInputStream
+instanceKlass java/io/FileInputStream
+instanceKlass java/io/ByteArrayInputStream
+ciInstanceKlass java/io/InputStream 1 1 58 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 5 0 100 100 100 100 100 100 100 7 12 12 12 12 12 10 10 10 10 10 10 10
+ciInstanceKlass java/io/ByteArrayInputStream 1 1 59 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 100 7 100 100 100 7 1 12 12 12 12 12 12 12 9 9 9 9 10 10 10 10 10
+ciInstanceKlass java/io/File 1 1 580 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 7 7 7 100 100 7 100 100 100 100 100 100 100 7 100 100 100 100 100 7 100 100 100 100 7 7 7 100 100 100 100 100 7 7 100 100 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 1 1 1
+staticfield java/io/File fs Ljava/io/FileSystem; java/io/WinNTFileSystem
+staticfield java/io/File separatorChar C 92
+staticfield java/io/File separator Ljava/lang/String; "\"
+staticfield java/io/File pathSeparatorChar C 59
+staticfield java/io/File pathSeparator Ljava/lang/String; ";"
+staticfield java/io/File PATH_OFFSET J 16
+staticfield java/io/File PREFIX_LENGTH_OFFSET J 12
+staticfield java/io/File UNSAFE Lsun/misc/Unsafe; sun/misc/Unsafe
+staticfield java/io/File $assertionsDisabled Z 1
+instanceKlass sun/misc/Launcher$ExtClassLoader
+instanceKlass sun/misc/Launcher$AppClassLoader
+ciInstanceKlass java/net/URLClassLoader 1 1 521 8 8 8 8 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 7 7 100 100 100 7 7 7 100 100 7 100 100 100 7 100 7 100 100 100 7 7 7 7 7 100 100 100 7 7 100 100 100 7 7 7 7 100 7 100 100 100 7 7 7 100 7 7 7 7 7 7 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 11
+ciInstanceKlass java/net/URL 1 1 581 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 100 100 100 100 7 100 7 7 100 100 100 100 100 7 7 100 100 7 7 100 100 100 100 7 100 100 100 100 7 7 7 100 100 100 7 7 7 100 7 7 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 1
+staticfield java/net/URL serialPersistentFields [Ljava/io/ObjectStreamField; 7 [Ljava/io/ObjectStreamField;
+ciInstanceKlass java/util/jar/Manifest 1 1 253 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 100 100 100 7 100 100 100 100 100 7 100 7 100 100 7 100 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 11 11 11 11 1
+ciInstanceKlass sun/misc/Launcher 1 1 215 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 7 100 100 100 100 100 100 100 100 7 100 7 100 7 7 100 7 7 100 7 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1 1 1 1
+ciInstanceKlass sun/misc/Launcher$AppClassLoader 1 1 198 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 100 7 7 100 7 100 7 7 100 100 7 100 7 100 7 100 7 7 7 100 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 1
+staticfield sun/misc/Launcher$AppClassLoader $assertionsDisabled Z 1
+ciInstanceKlass sun/misc/Launcher$ExtClassLoader 1 1 240 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 7 100 7 100 7 7 100 100 100 7 7 100 100 100 7 100 100 100 7 7 7 7 7 100 7 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 1
+ciInstanceKlass java/security/CodeSource 1 1 321 8 8 8 8 8 8 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 100 100 100 100 100 100 100 7 100 100 100 7 100 7 100 100 100 100 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11
+ciInstanceKlass java/lang/StackTraceElement 0 0 95 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 100 100 100 100 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10
+instanceKlass java/nio/LongBuffer
+instanceKlass java/nio/CharBuffer
+instanceKlass java/nio/ByteBuffer
+ciInstanceKlass java/nio/Buffer 1 1 129 8 8 8 8 8 8 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 100 7 100 100 7 100 100 100 100 100 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+staticfield java/nio/Buffer $assertionsDisabled Z 1
+ciInstanceKlass java/lang/Boolean 1 1 107 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 7 7 100 100 100 7 100 7 7 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 10 10 10 10 10 10 10 10 10 10
+staticfield java/lang/Boolean TRUE Ljava/lang/Boolean; java/lang/Boolean
+staticfield java/lang/Boolean FALSE Ljava/lang/Boolean; java/lang/Boolean
+staticfield java/lang/Boolean TYPE Ljava/lang/Class; java/lang/Class
+ciInstanceKlass java/lang/Character 1 1 456 3 3 3 3 3 3 3 3 8 8 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 0 5 0 100 100 7 7 100 100 100 7 100 7 100 100 100 100 7 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 1 1 1 1
+staticfield java/lang/Character TYPE Ljava/lang/Class; java/lang/Class
+staticfield java/lang/Character $assertionsDisabled Z 1
+instanceKlass edu/stanford/nlp/util/MutableInteger
+instanceKlass java/math/BigDecimal
+instanceKlass edu/stanford/nlp/util/MutableDouble
+instanceKlass edu/stanford/nlp/util/MutableLong
+instanceKlass java/math/BigInteger
+instanceKlass java/util/concurrent/atomic/AtomicLong
+instanceKlass java/util/concurrent/atomic/AtomicInteger
+instanceKlass java/lang/Long
+instanceKlass java/lang/Integer
+instanceKlass java/lang/Short
+instanceKlass java/lang/Byte
+instanceKlass java/lang/Double
+instanceKlass java/lang/Float
+ciInstanceKlass java/lang/Number 1 1 31 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 7 12 12 10 10
+ciInstanceKlass java/lang/Float 1 1 166 3 3 3 4 4 4 4 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 4 4 5 0 7 100 100 7 100 7 100 100 7 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+staticfield java/lang/Float TYPE Ljava/lang/Class; java/lang/Class
+ciInstanceKlass java/lang/Double 1 1 220 8 8 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 5 0 5 0 5 0 5 0 5 0 6 0 6 0 6 0 6 0 6 0 6 0 6 0 7 100 7 100 100 7 100 100 100 7 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+staticfield java/lang/Double TYPE Ljava/lang/Class; java/lang/Class
+ciInstanceKlass java/lang/Byte 1 1 150 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 5 0 5 0 7 7 7 100 100 7 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1
+staticfield java/lang/Byte TYPE Ljava/lang/Class; java/lang/Class
+ciInstanceKlass java/lang/Short 1 1 156 3 3 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 5 0 5 0 7 100 100 7 100 7 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1
+staticfield java/lang/Short TYPE Ljava/lang/Class; java/lang/Class
+ciInstanceKlass java/lang/Integer 1 1 310 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 5 0 5 0 5 0 100 7 7 100 100 7 7 100 7 100 7 7 100 100 7 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1
+staticfield java/lang/Integer TYPE Ljava/lang/Class; java/lang/Class
+staticfield java/lang/Integer digits [C 36
+staticfield java/lang/Integer DigitTens [C 100
+staticfield java/lang/Integer DigitOnes [C 100
+staticfield java/lang/Integer sizeTable [I 10
+ciInstanceKlass java/lang/Long 1 1 357 3 3 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 5 0 5 0 5 0 5 0 5 0 5 0 5 0 5 0 5 0 5 0 5 0 5 0 5 0 5 0 5 0 100 7 7 100 100 7 7 7 7 100 7 100 100 100 7 100 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1
+staticfield java/lang/Long TYPE Ljava/lang/Class; java/lang/Class
+ciInstanceKlass java/lang/NullPointerException 1 1 18 1 1 1 1 1 1 1 1 1 5 0 100 100 12 12 10 10
+ciInstanceKlass java/lang/ArithmeticException 1 1 18 1 1 1 1 1 1 1 1 1 5 0 100 100 12 12 10 10
+ciInstanceKlass java/util/List 1 1 109 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 100 100 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 10 10 10 11 11 11 11 11 11
+instanceKlass edu/stanford/nlp/util/DeltaIndex
+instanceKlass edu/stanford/nlp/trees/Tree
+instanceKlass edu/stanford/nlp/trees/Treebank
+instanceKlass edu/stanford/nlp/util/HashIndex
+instanceKlass java/util/AbstractQueue
+instanceKlass java/util/HashMap$Values
+instanceKlass java/util/ArrayDeque
+instanceKlass java/util/AbstractSet
+instanceKlass java/util/AbstractList
+ciInstanceKlass java/util/AbstractCollection 1 1 140 3 3 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 7 7 100 100 100 100 7 7 100 7 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11
+instanceKlass sun/security/jca/ProviderList$3
+instanceKlass java/util/ArrayList$SubList
+instanceKlass java/util/Collections$SingletonList
+instanceKlass java/util/SubList
+instanceKlass java/util/Arrays$ArrayList
+instanceKlass java/util/AbstractSequentialList
+instanceKlass java/util/Collections$EmptyList
+instanceKlass java/util/ArrayList
+instanceKlass java/util/Vector
+ciInstanceKlass java/util/AbstractList 1 1 164 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 7 100 100 7 7 100 7 7 100 100 7 7 7 7 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 11 11 11 1 1
+ciInstanceKlass java/util/ArrayList 1 1 353 3 3 8 8 8 8 8 8 8 8 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 5 0 7 7 100 100 7 100 100 100 100 100 7 7 100 100 7 100 7 7 7 7 7 7 100 7 100 100 7 100 7 100 100 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 1 1 1 1
+staticfield java/util/ArrayList EMPTY_ELEMENTDATA [Ljava/lang/Object; 0 [Ljava/lang/Object;
+staticfield java/util/ArrayList DEFAULTCAPACITY_EMPTY_ELEMENTDATA [Ljava/lang/Object; 0 [Ljava/lang/Object;
+instanceKlass edu/stanford/nlp/util/ArrayMap
+instanceKlass java/util/IdentityHashMap
+instanceKlass java/util/EnumMap
+instanceKlass java/util/concurrent/ConcurrentHashMap
+instanceKlass java/util/TreeMap
+instanceKlass java/util/WeakHashMap
+instanceKlass sun/util/PreHashedMap
+instanceKlass java/util/HashMap
+instanceKlass java/util/Collections$EmptyMap
+ciInstanceKlass java/util/AbstractMap 1 1 149 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 7 100 7 100 100 7 100 100 100 100 100 7 7 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 11 11 11 11 11 1 1
+instanceKlass edu/stanford/nlp/pipeline/Annotator$1
+instanceKlass sun/nio/ch/WindowsSelectorImpl$FdMap
+instanceKlass java/lang/ProcessEnvironment
+instanceKlass java/util/LinkedHashMap
+ciInstanceKlass java/util/HashMap 1 1 479 3 3 4 4 4 4 4 8 8 8 7 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 5 0 100 7 7 100 7 100 100 100 7 100 100 7 100 100 7 100 7 100 100 100 7 100 100 7 100 7 100 100 100 100 7 100 7 7 100 100 7 7 7 7 7 7 100 100 7 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 11 11 11 11 11 11 11 11 11 11 11 11 1 1 1 1 1 1 1 1 1 1 1 1
+instanceKlass java/util/LinkedHashMap$Entry
+ciInstanceKlass java/util/HashMap$Node 1 1 82 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 100 100 7 100 100 100 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 10 10 10 10 10 10 10 11 11
+instanceKlass java/io/ExpiringCache$1
+ciInstanceKlass java/util/LinkedHashMap 1 1 227 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 100 100 100 100 7 7 100 7 7 100 7 100 100 7 100 100 100 100 100 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 11 11 1 1 1 1 1 1 1 1
+ciInstanceKlass java/io/ExpiringCache$1 1 1 42 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 7 100 7 100 100 1 1 1 1 1 1 12 12 12 12 12 9 10 10 10
+instanceKlass java/util/HashMap$TreeNode
+ciInstanceKlass java/util/LinkedHashMap$Entry 1 1 24 1 1 1 1 1 1 1 1 1 1 1 1 100 7 100 100 1 1 1 1 1 12 10
+ciInstanceKlass java/util/HashMap$TreeNode 1 1 174 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 100 7 7 100 100 7 7 100 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 9 9 9 9 9 9 9 9 9 9 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 1
+staticfield java/util/HashMap$TreeNode $assertionsDisabled Z 1
+ciInstanceKlass java/lang/AssertionError 0 0 62 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 100 100 100 100 100 1 1 1 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 10 10 10 10 10 10 10 10 10 10 10 10
+ciInstanceKlass sun/misc/ProxyGenerator$ConstantPool$IndirectEntry 1 1 52 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 100 100 100 100 7 7 1 1 12 12 12 12 12 12 9 9 9 10 10 10 1 1
+ciInstanceKlass edu/stanford/nlp/parser/lexparser/IntTaggedWord 1 1 174 9 7 12 1 1 1 9 12 1 1 11 7 12 1 1 1 7 1 8 1 8 1 10 12 1 1 10 12 1 100 1 10 12 1 1 10 12 1 1 9 12 1 1 10 100 12 1 1 1 10 12 1 8 1 10 12 1 1 10 12 1 8 1 8 1 10 12 1 1 8 1 10 12 1 10 7 1 100 1 10 12 1 10 12 1 1 10 12 1 10 12 1 10 12 1 1 10 12 1 1 10 12 1 10 12 1 1 11 12 1 1 10 12 1 1 100 1 100 1 1 1 3 1 1 3 1 1 1 1 1 1 5 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+staticfield edu/stanford/nlp/parser/lexparser/IntTaggedWord charsToEscape [C 1
+ciInstanceKlass edu/stanford/nlp/parser/lexparser/UnaryRule 1 1 132 10 7 12 1 1 1 9 7 12 1 1 1 9 12 1 100 1 4 9 12 1 1 10 100 12 1 1 1 11 100 12 1 1 1 10 12 1 1 100 1 10 10 12 1 1 8 1 10 12 1 10 12 1 10 12 1 10 12 1 1 11 12 1 1 100 1 9 12 1 1 10 12 1 1 8 1 8 1 9 12 1 1 10 12 1 1 100 1 100 1 100 1 1 1 1 5 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+staticfield edu/stanford/nlp/parser/lexparser/UnaryRule charsToEscape [C 1
+ciInstanceKlass edu/stanford/nlp/graph/DirectedMultiGraph 1 1 477 10 7 12 1 1 1 10 7 12 1 1 1 10 7 12 1 1 9 12 1 1 9 12 1 10 12 1 1 9 12 1 1 9 12 1 11 7 12 1 1 1 11 7 12 1 1 1 11 7 12 1 1 1 11 12 1 1 100 1 11 12 1 11 12 1 100 1 10 7 12 1 1 1 11 12 1 1 11 12 1 1 11 12 1 1 11 12 1 11 12 1 1 10 12 1 1 10 12 1 7 1 7 1 10 11 12 1 11 12 1 11 12 100 1 8 1 10 12 1 8 1 11 12 1 11 12 1 11 10 12 1 11 10 7 12 1 1 1 11 12 1 1 10 100 12 1 1 1 10 12 1 1 10 12 1 1 10 12 1 10 12 1 11 12 1 1 11 12 1 11 12 1 11 10 12 1 1 11 11 10 12 1 1 10 12 1 1 10 12 1 10 12 1 1 10 7 12 1 1 10 12 1 11 12 1 100 1 8 1 10 12 1 10 12 1 10 100 12 1 1 1 10 12 1 7 1 10 12 1 11 7 1 10 12 1 18 12 1 18 10 12 1 18 12 1 10 12 1 11 12 1 10 12 1 1 10 12 1 1 11 7 1 7 1 10 8 1 10 12 1 1 10 12 1 1 10 10 10 12 1 1 8 1 8 1 8 1 10 12 1 10 12 1 8 1 8 1 8 1 100 1 1 1 1 1 1 1 1 5 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 15 10 7 12 1 1 1 16 15 10 12 15 10 12 15 10 12 1 1 1 100 1 100 1 1
+ciMethod java/lang/Object getClass ()Ljava/lang/Class; 2049 1 256 0 -1
+ciMethod java/lang/Object hashCode ()I 2049 1 256 0 -1
+ciMethod java/lang/Object equals (Ljava/lang/Object;)Z 2049 1 5139 0 -1
+ciMethod java/lang/Comparable compareTo (Ljava/lang/Object;)I 0 0 1 0 -1
+ciMethod java/lang/Class getGenericInterfaces ()[Ljava/lang/reflect/Type; 0 0 1 0 -1
+ciMethod java/lang/System arraycopy (Ljava/lang/Object;ILjava/lang/Object;II)V 13313 1 1664 0 -1
+ciMethod java/util/Map containsKey (Ljava/lang/Object;)Z 0 0 1 0 -1
+ciMethod java/util/Map get (Ljava/lang/Object;)Ljava/lang/Object; 0 0 1 0 -1
+ciMethod java/util/Map remove (Ljava/lang/Object;)Ljava/lang/Object; 0 0 1 0 -1
+ciMethod java/util/List size ()I 0 0 1 0 -1
+ciMethod java/util/List remove (Ljava/lang/Object;)Z 0 0 1 0 -1
+ciMethod java/util/ArrayList size ()I 1025 1 128 0 0
+ciMethod java/util/ArrayList remove (Ljava/lang/Object;)Z 3585 33 30408 0 768
+ciMethod java/util/ArrayList fastRemove (I)V 4097 1 30367 0 288
+ciMethod java/util/HashMap hash (Ljava/lang/Object;)I 2057 1 520425 0 160
+ciMethod java/util/HashMap comparableClassFor (Ljava/lang/Object;)Ljava/lang/Class; 0 0 1 0 0
+ciMethod java/util/HashMap compareComparables (Ljava/lang/Class;Ljava/lang/Object;Ljava/lang/Object;)I 0 0 1 0 0
+ciMethod java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 2073 65 57946 0 960
+ciMethod java/util/HashMap containsKey (Ljava/lang/Object;)Z 409 1 25911 0 1120
+ciMethod java/util/HashMap remove (Ljava/lang/Object;)Ljava/lang/Object; 4097 1 6406 0 1184
+ciMethod java/util/HashMap removeNode (ILjava/lang/Object;Ljava/lang/Object;ZZ)Ljava/util/HashMap$Node; 193 1 5274 0 -1
+ciMethod java/util/LinkedHashMap afterNodeAccess (Ljava/util/HashMap$Node;)V 337 1 5166 0 64
+ciMethod java/util/LinkedHashMap get (Ljava/lang/Object;)Ljava/lang/Object; 2281 1 10505 0 1280
+ciMethod java/util/HashMap$TreeNode root ()Ljava/util/HashMap$TreeNode; 1 1 1 0 0
+ciMethod java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 68225 1519361 10954 0 0
+ciMethod java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 841 1 10958 0 0
+ciMethodData java/util/HashMap hash (Ljava/lang/Object;)I 2 520425 orig 264 224 132 205 116 0 0 0 0 232 29 153 158 14 2 0 0 176 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 65 127 63 0 1 0 0 0 251 2 5 0 0 0 0 0 2 0 0 0 0 0 6 0 2 0 0 0 104 0 0 0 255 255 255 255 7 224 1 0 0 0 0 0 data 13 0x1e007 0x7e2c0 0x38 0xd2c 0x50003 0xd2c 0x48 0x90005 0x1dadc 0x20e9f388590 0x5fd13 0x20e9f39eb40 0x2e oops 2 9 java/lang/String 11 java/io/File
+ciMethodData java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 2 57946 orig 264 224 132 205 116 0 0 0 0 32 39 153 158 14 2 0 0 8 4 0 0 176 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 1 0 0 185 10 7 0 161 167 1 0 43 145 0 0 138 6 0 0 2 0 0 0 2 0 45 0 2 0 0 0 176 2 0 0 255 255 255 255 7 0 6 0 0 0 0 0 data 86 0x60007 0x13d 0x2b0 0xe01a 0xe0007 0x0 0x290 0xe01a 0x1c0007 0x2e1d 0x270 0xb1fd 0x250007 0x621f 0xb0 0x4fde 0x310007 0x1f8c 0x90 0x3052 0x350007 0x0 0x70 0x3052 0x3b0005 0x1c3d 0x20e9f388590 0x1352 0x20e9f39ef30 0xc3 0x3e0007 0x30d 0x20 0x2d45 0x4c0007 0x1343 0x1a0 0x51e9 0x510004 0xffffffffffffd8e3 0x20ea36a7b10 0x3ff 0x20ea3a55930 0x2acc 0x54e007 0x271d 0x80 0x2ace 0x590004 0x0 0x20ea3a55930 0x2ace 0x0 0x0 0x5e0005 0x200 0x20ea3a55930 0x28ce 0x0 0x0 0x680007 0x35fc 0xb0 0x16fb 0x740007 0x102d 0x90 0x6ce 0x780007 0x0 0x70 0x6ce 0x7e0005 0x2b5 0x20ea3a57580 0x79 0x20e9f388590 0x3a0 0x81e007 0x100 0x20 0x5d0 0x8f0007 0x25da 0xffffffffffffff50 0x1122 oops 8 26 java/lang/String 28 java/security/CodeSource 40 java/util/HashMap$Node 42 java/util/HashMap$TreeNode 50 java/util/HashMap$TreeNode 56 java/util/HashMap$TreeNode 74 sun/misc/ProxyGenerator$ConstantPool$IndirectEntry 76 java/lang/String
+ciMethodData java/util/HashMap containsKey (Ljava/lang/Object;)Z 2 25911 orig 264 224 132 205 116 0 0 0 0 192 39 153 158 14 2 0 0 200 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 51 0 0 0 33 40 3 0 1 0 0 0 44 62 0 0 0 0 0 0 2 0 0 0 0 0 10 0 2 0 0 0 120 0 0 0 255 255 255 255 2 0 2 0 0 0 0 0 data 15 0x20002 0x6504 0x60005 0x6d1 0x20ea36a6fb0 0x3d4f 0x20ea25b1e90 0x20e5 0x90007 0x2055 0x38 0x44b0 0xd0003 0x44b0 0x18 oops 2 4 java/util/HashMap 6 java/util/LinkedHashMap
+ciMethodData java/util/LinkedHashMap get (Ljava/lang/Object;)Ljava/lang/Object; 2 10505 orig 264 224 132 205 116 0 0 0 0 152 13 163 158 14 2 0 0 0 2 0 0 64 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 29 1 0 0 97 63 1 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 12 0 2 0 0 0 176 0 0 0 255 255 255 255 2 0 2 0 0 0 0 0 data 22 0x20002 0x27ec 0x60005 0x0 0x20ea1fd6510 0x1b 0x20ea25b1e90 0x27d1 0xb0007 0x14ee 0x20 0x12fe 0x140007 0x14ee 0x50 0x0 0x190005 0x0 0x0 0x0 0x0 0x0 oops 2 4 java/io/ExpiringCache$1 6 java/util/LinkedHashMap
+ciMethodData edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 2 8306 orig 264 224 132 205 116 0 0 0 0 104 164 126 163 14 2 0 0 72 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 1 0 0 65 251 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 13 0 2 0 0 0 248 0 0 0 255 255 255 255 7 0 2 0 0 0 0 0 data 31 0x20007 0x1f68 0x20 0x0 0x80004 0x0 0x20ea27d7450 0x1f68 0x0 0x0 0xb0007 0x0 0xa8 0x1f68 0xf0004 0x0 0x20ea27d7450 0x1f68 0x0 0x0 0x1b0007 0xbd 0x58 0x1eab 0x260007 0x0 0x38 0x1eab 0x2a0003 0x1eab 0x18 oops 2 6 edu/stanford/nlp/parser/lexparser/IntTaggedWord 16 edu/stanford/nlp/parser/lexparser/IntTaggedWord
+ciMethodData java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 2 218971 orig 264 224 132 205 116 0 0 0 0 0 85 167 158 14 2 0 0 16 4 0 0 176 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 209 75 0 0 217 139 3 0 228 6 0 0 37 105 0 0 2 0 0 0 1 0 43 0 2 0 0 0 176 2 0 0 255 255 255 255 7 0 26 0 0 0 0 0 data 86 0x1a0007 0x7550 0x38 0x404 0x210003 0x404 0x270 0x27e007 0xc4 0x38 0x748f 0x2e0003 0x748f 0x238 0x3a0007 0x0 0x90 0xc4 0x3e0007 0x0 0x70 0xc4 0x444005 0x0 0x20ea27d73a0 0xc4 0x20ea27d7450 0x2 0x470007 0x0 0x20 0xc6 0x4f0007 0x0 0x38 0x0 0x560003 0x0 0x170 0x5b0007 0x0 0x38 0x0 0x620003 0x0 0x138 0x660007 0x0 0x50 0x0 0x6a0002 0x0 0x6f0007 0x0 0xa0 0x0 0x760002 0x0 0x7c0007 0x0 0x70 0x0 0x810007 0x0 0x38 0x0 0x860003 0x0 0x18 0x8d0003 0x0 0x68 0x950005 0x0 0x0 0x0 0x0 0x0 0x9b0007 0x0 0x20 0x0 0xa70007 0x6fda 0xfffffffffffffd70 0x8bf oops 2 24 edu/stanford/nlp/parser/lexparser/UnaryRule 26 edu/stanford/nlp/parser/lexparser/IntTaggedWord
+ciMethodData java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 2 10958 orig 264 224 132 205 116 0 0 0 0 160 85 167 158 14 2 0 0 240 1 0 0 80 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 103 0 0 0 41 83 1 0 1 0 0 0 203 39 0 0 0 0 0 0 2 0 0 0 1 0 10 0 2 0 0 0 152 0 0 0 255 255 255 255 7 0 4 0 0 0 0 0 data 19 0x40007 0x2a65 0x68 0x0 0x80005 0x0 0x0 0x0 0x0 0x0 0xb0003 0x0 0x18 0x120005 0x175 0x20ea3a55930 0x28f0 0x0 0x0 oops 1 15 java/util/HashMap$TreeNode
+ciMethodData java/util/ArrayList remove (Ljava/lang/Object;)Z 2 30408 orig 264 224 132 205 116 0 0 0 0 64 167 151 158 14 2 0 0 136 2 0 0 192 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 170 1 0 0 65 168 3 0 193 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 2 0 16 0 2 0 0 0 56 1 0 0 255 255 255 255 7 0 1 0 0 0 0 0 data 39 0x10007 0x7508 0xa0 0x0 0xb0007 0x0 0x68 0x0 0x140007 0x0 0x30 0x0 0x190002 0x0 0x210003 0x0 0xffffffffffffffb0 0x240003 0x0 0xb0 0x2e0007 0x6 0x98 0x751a 0x38c005 0x26 0x20ea27d73a0 0x74e0 0x20e9f388590 0x18 0x3b0007 0x18 0x30 0x7506 0x400002 0x7506 0x480003 0x18 0xffffffffffffff80 oops 2 26 edu/stanford/nlp/parser/lexparser/UnaryRule 28 java/lang/String
+ciMethodData java/util/ArrayList fastRemove (I)V 2 30367 orig 264 224 132 205 116 0 0 0 0 8 168 151 158 14 2 0 0 176 1 0 0 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 249 164 3 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 6 0 2 0 0 0 96 0 0 0 255 255 255 255 7 0 20 0 0 0 0 0 data 12 0x140007 0x6857 0x30 0xc48 0x240002 0xc48 0x370104 0x0 0x0 0x0 0x0 0x0 oops 0
+ciMethod edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 2129 1 8306 0 160
+ciMethod edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 3065 1 31179 0 160
+ciMethodData edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 2 31179 orig 264 224 132 205 116 0 0 0 0 184 174 134 163 14 2 0 0 48 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 1 0 0 97 194 3 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 12 0 2 0 0 0 224 0 0 0 255 255 255 255 7 0 2 0 0 0 0 0 data 28 0x20007 0x1ad 0x20 0x769f 0x80004 0x0 0x20ea27d73a0 0x1ad 0x0 0x0 0xb0007 0x0 0x90 0x1ad 0xf0004 0x0 0x20ea27d73a0 0x1ad 0x0 0x0 0x1b0007 0x0 0x40 0x1ad 0x260007 0x0 0x20 0x1ad oops 2 6 edu/stanford/nlp/parser/lexparser/UnaryRule 16 edu/stanford/nlp/parser/lexparser/UnaryRule
+ciMethod edu/stanford/nlp/graph/DirectedMultiGraph removeEdge (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Z 553 1 5190 0 -1
+ciMethodData edu/stanford/nlp/graph/DirectedMultiGraph removeEdge (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Z 2 5190 orig 264 224 132 205 116 0 0 0 0 104 14 164 164 14 2 0 0 224 12 0 0 208 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 69 0 0 0 9 160 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 51 0 2 0 0 0 128 11 0 0 255 255 255 255 5 0 5 0 0 0 0 0 data 368 0x50005 0x0 0x20ea25b1e90 0x1401 0x0 0x0 0xa0007 0x1401 0x20 0x0 0x140005 0x0 0x20ea25b1e90 0x1401 0x0 0x0 0x190007 0x1401 0x20 0x0 0x230005 0x0 0x20ea25b1e90 0x1401 0x0 0x0 0x280004 0x0 0x20ea25b1e90 0x1401 0x0 0x0 0x2c0005 0x0 0x20ea25b1e90 0x1401 0x0 0x0 0x310007 0x13fd 0x20 0x4 0x3b0005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x400007 0x0 0x1f8 0x13fd 0x480005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x4d0004 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x510005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x560007 0x0 0x148 0x13fd 0x5e0005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x630004 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x670005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x6c0004 0x0 0x20ea25b1f40 0x13fd 0x0 0x0 0x700005 0x0 0x20ea25b1f40 0x13fd 0x0 0x0 0x750007 0x0 0x38 0x13fd 0x790003 0x13fd 0x18 0x840005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x890007 0x0 0x1f8 0x13fd 0x910005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x960004 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x9a0005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x9f0007 0x0 0x148 0x13fd 0xa70005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0xac0004 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0xb00005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0xb50004 0x0 0x20ea25b1f40 0x13fd 0x0 0x0 0xb90005 0x0 0x20ea25b1f40 0x13fd 0x0 0x0 0xbe0007 0x0 0x38 0x13fd 0xc20003 0x13fd 0x18 0xca0007 0x0 0x50 0x13fd 0xcf0007 0x13fd 0x30 0x0 0xd80002 0x0 0xde0007 0x0 0x50 0x13fd 0xe30007 0x13fd 0x30 0x0 0xec0002 0x0 0xf50005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0xfa0007 0x0 0x270 0x13fd 0x1020005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x1070004 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x10b0005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x1100007 0x0 0x130 0x13fd 0x1180005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x11d0004 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x1210005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x1260004 0x0 0x20ea25b1f40 0x13fd 0x0 0x0 0x1290005 0x0 0x20ea25b1f40 0x13fd 0x0 0x0 0x12e0007 0x0 0xb0 0x13fd 0x1360005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x13b0004 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x13f0005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x14a0005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x14f0007 0x0 0x270 0x13fd 0x1570005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x15c0004 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x1600005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x1650007 0x0 0x130 0x13fd 0x16d0005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x1720004 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x1760005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x17b0004 0x0 0x20ea25b1f40 0x13fd 0x0 0x0 0x17e0005 0x0 0x20ea25b1f40 0x13fd 0x0 0x0 0x1830007 0x0 0xb0 0x13fd 0x18b0005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x1900004 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 0x1940005 0x0 0x20ea25b1e90 0x13fd 0x0 0x0 oops 47 2 java/util/LinkedHashMap 12 java/util/LinkedHashMap 22 java/util/LinkedHashMap 28 java/util/LinkedHashMap 34 java/util/LinkedHashMap 44 java/util/LinkedHashMap 54 java/util/LinkedHashMap 60 java/util/LinkedHashMap 66 java/util/LinkedHashMap 76 java/util/LinkedHashMap 82 java/util/LinkedHashMap 88 java/util/LinkedHashMap 94 java/util/ArrayList 100 java/util/ArrayList 113 java/util/LinkedHashMap 123 java/util/LinkedHashMap 129 java/util/LinkedHashMap 135 java/util/LinkedHashMap 145 java/util/LinkedHashMap 151 java/util/LinkedHashMap 157 java/util/LinkedHashMap 163 java/util/ArrayList 169 java/util/ArrayList 202 java/util/LinkedHashMap 212 java/util/LinkedHashMap 218 java/util/LinkedHashMap 224 java/util/LinkedHashMap 234 java/util/LinkedHashMap 240 java/util/LinkedHashMap 246 java/util/LinkedHashMap 252 java/util/ArrayList 258 java/util/ArrayList 268 java/util/LinkedHashMap 274 java/util/LinkedHashMap 280 java/util/LinkedHashMap 286 java/util/LinkedHashMap 296 java/util/LinkedHashMap 302 java/util/LinkedHashMap 308 java/util/LinkedHashMap 318 java/util/LinkedHashMap 324 java/util/LinkedHashMap 330 java/util/LinkedHashMap 336 java/util/ArrayList 342 java/util/ArrayList 352 java/util/LinkedHashMap 358 java/util/LinkedHashMap 364 java/util/LinkedHashMap
+compile edu/stanford/nlp/graph/DirectedMultiGraph removeEdge (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Z -1 4 inline 114 0 -1 edu/stanford/nlp/graph/DirectedMultiGraph removeEdge (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Z 1 5 java/util/HashMap containsKey (Ljava/lang/Object;)Z 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 20 java/util/HashMap containsKey (Ljava/lang/Object;)Z 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 35 java/util/LinkedHashMap get (Ljava/lang/Object;)Ljava/lang/Object; 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 44 java/util/HashMap containsKey (Ljava/lang/Object;)Z 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 59 java/util/HashMap containsKey (Ljava/lang/Object;)Z 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 72 java/util/LinkedHashMap get (Ljava/lang/Object;)Ljava/lang/Object; 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 81 java/util/HashMap containsKey (Ljava/lang/Object;)Z 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 94 java/util/LinkedHashMap get (Ljava/lang/Object;)Ljava/lang/Object; 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 103 java/util/LinkedHashMap get (Ljava/lang/Object;)Ljava/lang/Object; 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 112 java/util/ArrayList remove (Ljava/lang/Object;)Z 2 56 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 2 64 java/util/ArrayList fastRemove (I)V 1 132 java/util/HashMap containsKey (Ljava/lang/Object;)Z 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 145 java/util/LinkedHashMap get (Ljava/lang/Object;)Ljava/lang/Object; 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 154 java/util/HashMap containsKey (Ljava/lang/Object;)Z 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 167 java/util/LinkedHashMap get (Ljava/lang/Object;)Ljava/lang/Object; 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 176 java/util/LinkedHashMap get (Ljava/lang/Object;)Ljava/lang/Object; 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 185 java/util/ArrayList remove (Ljava/lang/Object;)Z 2 56 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 2 64 java/util/ArrayList fastRemove (I)V 1 245 java/util/HashMap containsKey (Ljava/lang/Object;)Z 2 2 java/util/HashMap hash (Ljava/lang/Object;)I 2 6 java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 3 94 java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 4 18 java/util/HashMap$TreeNode find (ILjava/lang/Object;Ljava/lang/Class;)Ljava/util/HashMap$TreeNode; 5 68 edu/stanford/nlp/parser/lexparser/UnaryRule equals (Ljava/lang/Object;)Z 5 68 edu/stanford/nlp/parser/lexparser/IntTaggedWord equals (Ljava/lang/Object;)Z 1 297 java/util/ArrayList size ()I 1 382 java/util/ArrayList size ()I
